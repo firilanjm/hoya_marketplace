@@ -1,0 +1,421 @@
+product_name,variety,price,number_sold,location,rating,number_of_reviews,marketplace,scraping_date,product_url,shop_name
+Hoya Cumigiana,Cumigiana,10000,5,Kab. Lumajang,4.9,497,Shopee,2026-06-11,https://shopee.co.id/product/348755541/8915296529,Ngundang anggrek
+Hoya Lacunosa Rimbun Bunganya Wangi,Lacunosa,12000,5,Kab. Lumajang,4.93,307,Shopee,2026-06-11,https://shopee.co.id/product/348755541/6579385658,Ngundang anggrek
+Tanaman Hoya Carnosa Tricolor Atau Crimsom Princes,Carnosa,34500,3,Kab. Bandung Barat,4.98,84,Shopee,2026-06-11,https://shopee.co.id/product/104126944/6352344959,Shofiflora
+Sekulen Cluster Hoya Love Varigata Bercabang,Love,27500,7,Kab. Bandung Barat,4.94,48,Shopee,2026-06-11,https://shopee.co.id/product/163019197/28717898578,Kaktus Store
+Hoya kuning cerah,Kuning,20000,3,Kab. Lumajang,4.88,97,Shopee,2026-06-11,https://shopee.co.id/product/348755541/8787796573,Ngundang anggrek
+Tanaman hias hoya love sweet heart - Full set include pot & tanah,Love,38000,1,Kab. Bandung Barat,5.0,13,Shopee,2026-06-11,https://shopee.co.id/product/378140921/23001483294,kasugarden
+Tanaman Hias Tanaman Gantung HOYA Krohniana Eskimo,Krohniana,14500,3,Kab. Bandung,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/53446639/24688355182,rosdiana248
+Tanaman Hias Hoya Love Kerri Cluster | Variegata,Love,40000,8,Kab. Bandung Barat,4.96,101,Shopee,2026-06-11,https://shopee.co.id/product/185339199/17069783524,ghplants
+tanaman hias bunga hoya calistopylla sp skadau,Calistopylla,29999,2,Kab. Bandung Barat,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/104126944/49956381632,Shofiflora
+Hoya Bunga Kuning Tanaman Hias Subur Rimbun,Bunga,12000,1,Kab. Lumajang,4.91,189,Shopee,2026-06-11,https://shopee.co.id/product/348755541/6382423071,Ngundang anggrek
+Hoya Kerii Variegata Cluster Tanaman + Pot 10 Cm,Kerii,22000,2,Kab. Bandung Barat,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/271766317/25232142909,fachri khalif
+Hoya Aff Vitellina Tanaman Hias Jumbo Sehat,Aff,15000,1,Kab. Lumajang,4.88,78,Shopee,2026-06-11,https://shopee.co.id/product/348755541/11162633520,Ngundang anggrek
+Hoya Cumingiana Tanaman Hias Bunga Kuning Wangi,Cumingiana,7850,6,Kab. Jember,4.73,145,Shopee,2026-06-11,https://shopee.co.id/product/308246258/3768781921,iczo8l829_
+Hoya Lacunosa | Bunga Wangi | Tanaman Hias Gantung Siap Bunga | Hoya Plant,Lacunosa,22000,1,Kab. Mojokerto,4.8,25,Shopee,2026-06-11,https://shopee.co.id/product/79147367/9274774612,Organik Herbal Alami
+Tanaman Hoya Callistopila Borneo Daun Unik Rimbun,Callistopila,25000,3,Kab. Bogor,4.94,53,Shopee,2026-06-11,https://shopee.co.id/product/583313991/41458078340,Octaplant
+Tanaman Hias Hoya Flamingo Dream (purple pride) Menor,Flamingo,25000,7,Kab. Sukabumi,4.92,40,Shopee,2026-06-11,https://shopee.co.id/product/149954398/20024640938,pendisetiawan_mekarhijau
+Tanaman Hoya Mathilde Splash Mudah Perawatan,Mathilde,15000,6,Kab. Bogor,4.91,47,Shopee,2026-06-11,https://shopee.co.id/product/583313991/24344479884,Octaplant
+Tanaman Hoya Carnosa/Jardin Rambat Perawatan Mudah,Carnosa,15000,5,Kab. Bandung Barat,4.89,62,Shopee,2026-06-11,https://shopee.co.id/product/63808544/5492962520,sindymarleb
+Hoya Carnosa Hijau Tanaman Gantung Hias Segar,Carnosa,12000,7,Kab. Bandung Barat,4.96,55,Shopee,2026-06-11,https://shopee.co.id/product/185339199/15326295819,ghplants
+PROMO Tanaman Hoya Carnosa Rambat Perawatan Mudah,Carnosa,15048,3,Kab. Bogor,4.74,82,Shopee,2026-06-11,https://shopee.co.id/product/602047018/19158722640,Plant_21
+Tanaman Hias Hoya Mathilde Silver sepplas,Mathilde,17000,6,Kab. Sukabumi,4.91,33,Shopee,2026-06-11,https://shopee.co.id/product/149954398/5093000605,pendisetiawan_mekarhijau
+Tanaman Gantung Hoya Fichii Berbunga Mudah,Fichii,15000,4,Kab. Bogor,4.98,44,Shopee,2026-06-11,https://shopee.co.id/product/583313991/29833009531,Octaplant
+ANK SALE HOYA,Tidak Teridentifikasi,49999,26,Bandung,5.0,31,Shopee,2026-06-11,https://shopee.co.id/product/38705077/24265968408,AnekaBenang
+Tanaman Hias Hoya Crincel 8 Akar Sehat Dan Tunas Baru,Crincel,15000,1,Kab. Sukabumi,5.0,11,Shopee,2026-06-11,https://shopee.co.id/product/149954398/40004498865,pendisetiawan_mekarhijau
+Hoya Diversifolia Merah Bunga Harum Muda,Diversifolia,20000,5,Kab. Lumajang,4.91,360,Shopee,2026-06-11,https://shopee.co.id/product/348755541/8712380332,Ngundang anggrek
+tanaman hoya blazernaizhi,Blazernaizhi,20000,5,Kab. Bogor,5.0,32,Shopee,2026-06-11,https://shopee.co.id/product/583313991/53704056036,Octaplant
+tanaman hias Hoya merah - BAKUL KEMBANG,Merah,25500,1,Batu,4.85,13,Shopee,2026-06-11,https://shopee.co.id/product/403426994/11178281908,Bakul.kembang
+tanaman hias hoya carnosa princes,Carnosa,17000,6,Kab. Bogor,4.96,26,Shopee,2026-06-11,https://shopee.co.id/product/583313991/23611463480,Octaplant
+Tanaman Hias hoya pubicalyx varigata,Pubicalyx,15000,1,Kab. Sukabumi,5.0,31,Shopee,2026-06-11,https://shopee.co.id/product/149954398/8911583462,pendisetiawan_mekarhijau
+Hoya kerii/love variagata,Kerii,17000,3,Kab. Bandung Barat,5.0,20,Shopee,2026-06-11,https://shopee.co.id/product/865746490/18555498482,trisula nursery
+Tanaman Gantung Hoya Bunga Harum Putih Merah,Bunga,2500,39,Kab. Jember,4.69,950,Shopee,2026-06-11,https://shopee.co.id/product/308246258/3660268390,iczo8l829_
+Hoya Archboldiana | Hoya Plant's | Tanaman Hias | Hoya Arcodiana,Archboldiana,41500,4,Kab. Mojokerto,4.83,36,Shopee,2026-06-11,https://shopee.co.id/product/79147367/22689268451,Organik Herbal Alami
+Tanaman Hias Gantung Hoya Sunrise Tahan Panas,Sunrise,21000,2,Kab. Bogor,4.92,37,Shopee,2026-06-11,https://shopee.co.id/product/583313991/13362746199,Octaplant
+Tanaman Hias Hoya Carnosa Krimson Princess Menor,Carnosa,35000,5,Kab. Sukabumi,4.82,39,Shopee,2026-06-11,https://shopee.co.id/product/149954398/4696331894,pendisetiawan_mekarhijau
+Tanaman hias Hoya kerri variagata rimbun/Hoya love variagata indukan cluster,Kerri,50000,5,Kab. Bandung Barat,4.78,18,Shopee,2026-06-11,https://shopee.co.id/product/865746490/25684892565,trisula nursery
+Anggrek Hoya Cumigiana Tanaman Hias Murah,Cumigiana,7000,6,Kab. Lumajang,4.93,85,Shopee,2026-06-11,https://shopee.co.id/product/161369260/8416309458,fahrulalam29
+Anggrek Hoya Putih Dan Pink Unik Dan Polusi,Putih,9500,1,Kab. Jember,4.74,774,Shopee,2026-06-11,https://shopee.co.id/product/25939006/5745634020,Arsenio Anggrek
+Tamanan Bunga Hias Hoya Carnosa Purple Pride Ukuran Acak,Carnosa,35000,2,Kab. Bandung Barat,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/104126944/44100151462,Shofiflora
+hoya DS-70/Burtoniae/bilobata VARIEGATA,Bilobata,45000,1,Kab. Bandung Barat,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/104126944/18250174728,Shofiflora
+Tanaman Hoya Haipong Ungu Cantik Perawatan Mudah,Haipong,23000,2,Kab. Bogor,4.92,13,Shopee,2026-06-11,https://shopee.co.id/product/583313991/40108064813,Octaplant
+Hoya Krohniana Eskimo Splash Tanaman Hias Indah,Krohniana,12000,4,Kab. Bandung Barat,4.94,16,Shopee,2026-06-11,https://shopee.co.id/product/101456263/29751790258,Tanaman Kaktus Sukulen
+Tanaman Hias Hoya Carnosa frecles,Carnosa,30000,2,Kab. Sukabumi,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/149954398/29168534802,pendisetiawan_mekarhijau
+Tanaman Hias Hoya Arnottiana Bunga Putih Wangi,Arnottiana,38000,1,Batu,4.9,31,Shopee,2026-06-11,https://shopee.co.id/product/4076584/91927447,tokobibitID
+succulen Hoya,Tidak Teridentifikasi,20000,267,Kab. Bandung Barat,4.95,345,Shopee,2026-06-11,https://shopee.co.id/product/496064133/43969770247,ifraplant22
+Tanaman Hoya Carnosa Purple Pride Daun Cantik Gantung,Carnosa,18000,3,Kab. Bogor,4.74,19,Shopee,2026-06-11,https://shopee.co.id/product/583313991/29483030757,Octaplant
+Hoya Vitellina Siap Bunga | Tanaman Hias Gantung,Vitellina,20000,2,Kab. Mojokerto,4.81,54,Shopee,2026-06-11,https://shopee.co.id/product/79147367/9874775775,Organik Herbal Alami
+Hoya Danumensis | Hoya Plant’s | Tanaman Hias | Hoya Murah,Danumensis,38000,2,Kab. Mojokerto,4.83,12,Shopee,2026-06-11,https://shopee.co.id/product/79147367/19787333598,Organik Herbal Alami
+Hoya Purpureofusca SP Siap Bunga | Tanaman Hias Gantung,Purpureofusca,21000,1,Kab. Mojokerto,4.84,69,Shopee,2026-06-11,https://shopee.co.id/product/79147367/8774764675,Organik Herbal Alami
+Hoya Anulata | Plant’s Hoya | Hoya Siap Bunga | Hoya Flowers,Anulata,29500,1,Kab. Mojokerto,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/79147367/24557350915,Organik Herbal Alami
+Hoya Obovata Wangi Tanaman Hias Merambat Akar Jalan,Obovata,25000,2,Kab. Bandung Barat,5.0,9,Shopee,2026-06-11,https://shopee.co.id/product/280590568/27666348517,MBR orchid
+tanaman hias hoya eliptica,Eliptica,25000,1,Kab. Bogor,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/583313991/22947018117,Octaplant
+Tanaman Hoya Kerrii Varigata Rimbun 2daun Lebih,Kerrii,25000,1,Kab. Bandung Barat,4.98,83,Shopee,2026-06-11,https://shopee.co.id/product/432191915/10800438969,kaktus_plants
+Hoya Fuscomarginata Rimbun Warna Kuning Cerah,Fuscomarginata,30000,1,Kab. Lumajang,4.88,94,Shopee,2026-06-11,https://shopee.co.id/product/348755541/10062972589,Ngundang anggrek
+Hoya Diversifolia | Hoya Dewasa | Tanaman Hias Gantung | Hoya Plant's,Diversifolia,49500,1,Kab. Mojokerto,4.84,62,Shopee,2026-06-11,https://shopee.co.id/product/79147367/16124918559,Organik Herbal Alami
+Hoya Publicalyx Silver Splash Ukuran S-M Murah,Publicalyx,35000,4,Kab. Cianjur,4.94,18,Shopee,2026-06-11,https://shopee.co.id/product/363308495/13128883343,arsyila_nursery
+tanaman bunga Hoya putih bunga wangi menjalar,Putih,20000,1,Kab. Kediri,4.89,27,Shopee,2026-06-11,https://shopee.co.id/product/516411860/23804282185,erlinaflorist
+Tanaman Hisa Hoya love | Kerii varigata samping,Love,15000,3,Kab. Bandung Barat,4.92,78,Shopee,2026-06-11,https://shopee.co.id/product/185339199/10689803673,ghplants
+Hoya Putih Mini Daun Kecil Bunga Putih Rimbun,Putih,2900,2,Kab. Banjarnegara,4.64,39,Shopee,2026-06-11,https://shopee.co.id/product/63892636/9141713114,yugonurseryorchids
+Hoya Australis | Tanaman Hias | Hoya Bunga Wangi | Hoya Plant,Australis,31000,1,Kab. Mojokerto,4.86,22,Shopee,2026-06-11,https://shopee.co.id/product/79147367/15135215291,Organik Herbal Alami
+Hoya Pubicalyx Bunga Ungu,Pubicalyx,20000,1,Kab. Jember,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/47055996/57656228803,BONBON FLORIST
+Tanaman Sekulen Gantung Hoya Kuaci ( Dhiscidia Oiantha),Kuaci,8500,9,Kab. Bandung Barat,4.58,12,Shopee,2026-06-11,https://shopee.co.id/product/163019197/43171180255,Kaktus Store
+Cuming's Hoya | Hoya Cuming | Tanaman Gantung | Tanaman Hias,Cuming,27100,1,Kab. Mojokerto,4.62,102,Shopee,2026-06-11,https://shopee.co.id/product/79147367/5554591960,Organik Herbal Alami
+Tanamannya saja succulent Hoya Dolar Coin ukuran medium,Dolar,12500,4,Kab. Bandung Barat,5.0,29,Shopee,2026-06-11,https://shopee.co.id/product/378140921/16632359704,kasugarden
+Tanaman Hias Hoya Burtoniae Varigata Mudah Perawatan,Burtoniae,20000,2,Kab. Bogor,4.93,15,Shopee,2026-06-11,https://shopee.co.id/product/583313991/19768793126,Octaplant
+Tanaman Hoya Wayeti Variegata Sehat Dalam Pot 10cm,Wayeti,45000,2,Kab. Bandung Barat,5.0,22,Shopee,2026-06-11,https://shopee.co.id/product/104126944/11009774331,Shofiflora
+PROMO!! Hoya Vitellina Siap Bunga | Tanaman Hias Gantung T.V.P,Vitellina,1500,17,Bekasi,4.71,7,Shopee,2026-06-11,https://shopee.co.id/product/1630434274/41119367326,Kolektor Anggrek
+tanaman Hoya mini bunga putih,Tidak Teridentifikasi,2500,7,Kab. Jember,4.88,73,Shopee,2026-06-11,https://shopee.co.id/product/129231626/16923825395,ariswijoyokusumo
+Tanaman Hoya Crasipetiolata Splas Tahan Cuaca,Crasipetiolata,25000,3,Kab. Bogor,4.88,17,Shopee,2026-06-11,https://shopee.co.id/product/583313991/27984652736,Octaplant
+Tanaman Hias Hoya Vangviengiensis Esty,Vangviengiensis,30000,1,Kab. Sukabumi,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/149954398/27843482050,pendisetiawan_mekarhijau
+Tanaman Hoya Krohniana Icekimo Berbunga Harum,Krohniana,16000,4,Kab. Bogor,4.93,29,Shopee,2026-06-11,https://shopee.co.id/product/583313991/20365074278,Octaplant
+hoya cluster,Cluster,25000,1,Kab. Bandung Barat,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/23411524/15778367816,Diana Nursery
+Tanaman Hias Hoya Love/Keri Variegated Ukuran Pot 10cm,Love,15000,2,Kab. Bandung Barat,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/1334323978/27167338017,idea garden
+Hoya Patella Sp Papua Bunga Pink Tanaman Hias Rambat,Patella,60000,1,Kab. Purworejo,5.0,7,Shopee,2026-06-11,https://shopee.co.id/product/216668874/21735241576,naya allshop
+Hoya Diversifolia Hasil Perbanyakan Lokal,Diversifolia,35000,1,Bandar Lampung,5.0,7,Shopee,2026-06-11,https://shopee.co.id/product/7270498/24578754502,Cihoroku_Garden
+Tanaman Hias Hoya Lacunosa Hutan/ Lacunosa Ijo,Lacunosa,8000,1,Kab. Sukabumi,4.92,13,Shopee,2026-06-11,https://shopee.co.id/product/149954398/8506045803,pendisetiawan_mekarhijau
+Hoya Carnosa pink rimbun tanaman penyerap polutan,Carnosa,18000,1,Kab. Banjarnegara,4.65,137,Shopee,2026-06-11,https://shopee.co.id/product/63892636/3135625508,yugonurseryorchids
+hoya var tengah cluster,Var,30000,1,Kab. Bandung Barat,5.0,20,Shopee,2026-06-11,https://shopee.co.id/product/139973547/18159543401,gubuk kaktus sekulen
+TANAMAN HIAS ANGGREK HOYA MINI,Tidak Teridentifikasi,7000,1,Kab. Bandung Barat,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/211985573/21476687815,Plante Store
+hoya verticilata blackmargin,Verticilata,17000,2,Kab. Bogor,4.93,15,Shopee,2026-06-11,https://shopee.co.id/product/583313991/22906956665,Octaplant
+Tanaman Hoya Kerri (Love) Daun Hati Mudah Perawatan,Kerri,23000,1,Kab. Bogor,5.0,10,Shopee,2026-06-11,https://shopee.co.id/product/583313991/18964231966,Octaplant
+Anggrek Hoya Merahh Cantik Elegan Hiasan Dinding,Merahh,6300,1,Jakarta Timur,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/1650136244/49501748468,TOKO DUNIA ANGGREK
+Hoya Affinis | Plant’s Hoya | Flowers Affinis | Hoya Bunga Cantik,Affinis,37000,1,Kab. Mojokerto,4.8,15,Shopee,2026-06-11,https://shopee.co.id/product/79147367/24557351382,Organik Herbal Alami
+Tanaman Hias Hoya Difersipolia Kualitas Baik Segar,Difersipolia,20000,1,Kab. Sukabumi,4.82,11,Shopee,2026-06-11,https://shopee.co.id/product/149954398/15420470240,pendisetiawan_mekarhijau
+Tanaman Hias hoya Krohniana Eskimo/Lacunosa silver,Lacunosa,30000,1,Kab. Sukabumi,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/149954398/9274462382,pendisetiawan_mekarhijau
+TANAMAN HIAS HOYA COMPACTA REGALIS/HOYA COMPACTA VARIEGATA,Compacta,48000,0,Jakarta Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1530675568/27535785212,mdiv9lemdq
+Hoya Super Rimbun Tanaman Hidup Sehat Berakar,Super,60000,1,Kab. Bandung Barat,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/274382611/14074644086,BumiHijau99
+Tanaman Hias Hoya Ransan Sepals Ready Stok KK,Ransan,20000,1,Kab. Sukabumi,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/149954398/28823164259,pendisetiawan_mekarhijau
+Hoya mini atau love,Tidak Teridentifikasi,15000,1,Kab. Lumajang,4.93,14,Shopee,2026-06-11,https://shopee.co.id/product/419597505/10850580166,Mutiara_hijau05
+Hoya Parasitica White | Tanaman Hias Gantung | Hoya Siap Bunga,Parasitica,21000,1,Kab. Mojokerto,4.57,54,Shopee,2026-06-11,https://shopee.co.id/product/79147367/10057447657,Organik Herbal Alami
+Tanaman Hoya Compacta Ekonomis Harga Murah,Compacta,35000,2,Kab. Bandung Barat,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/104126944/10863697190,Shofiflora
+Tanaman Hoya Sp Timoer Perawatan Mudah Teduh,Tidak Teridentifikasi,25000,1,Kab. Bogor,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/583313991/23511449848,Octaplant
+Hoya Coreacea Jawa Cantik Wangi Murah Tanaman Hias,Coreacea,15000,18,Kab. Purworejo,4.9,10,Shopee,2026-06-11,https://shopee.co.id/product/216668874/7979351208,naya allshop
+Tanaman Bunga Hoya Carnosa (Rambat) / Wax Plant / Porcelain Flower,Carnosa,23555,2,Batu,4.8,5,Shopee,2026-06-11,https://shopee.co.id/product/342659803/20935062481,rocketfield_plantary
+Hoya Cinnamomifolia,Cinnamomifolia,30000,8,Kab. Malang,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/129445308/8091654133,hd_86_orchids
+Tanaman Hias Hoya Sp Aceh,Tidak Teridentifikasi,30000,2,Kab. Sukabumi,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/149954398/14370721630,pendisetiawan_mekarhijau
+Tanaman Hias Hoya Calistopylla Kondisi Baik,Calistopylla,30000,4,Kab. Sukabumi,4.83,18,Shopee,2026-06-11,https://shopee.co.id/product/149954398/8196064554,pendisetiawan_mekarhijau
+Tanaman Hias Hoya Macrophilla Albomarginata Rimbun Sehat,Macrophilla,25000,1,Kab. Cianjur,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/363308495/23813240225,arsyila_nursery
+Tanaman Hias Hoya Love | Kerii Variegata Tengah,Love,25000,4,Kab. Bandung Barat,4.89,179,Shopee,2026-06-11,https://shopee.co.id/product/185339199/9604779669,ghplants
+Hoya love atau Hoya keri,Love,35000,0,Kab. Bandung Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1836741340/47211571798,28e0u6nqks
+Love Hoya Tanaman Segar Dalam Pot,Tidak Teridentifikasi,5000,2,Kab. Bandung Barat,5.0,10,Shopee,2026-06-11,https://shopee.co.id/product/884411896/21055164514,auroracactusofficial
+Hoya Excavata Siap Bunga Tanaman Hias Gantung,Excavata,26500,1,Kab. Mojokerto,4.77,30,Shopee,2026-06-11,https://shopee.co.id/product/79147367/9273428140,Organik Herbal Alami
+hoya sunrise,Sunrise,40000,2,Salatiga,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/17210247/19187665866,shoppingwithpipit
+Hoya Deykeae Tanaman Dengan Pot 8cm,Deykeae,45000,1,Bandung,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/35784517/29881235374,Floragasm
+Hoya Kerrii Variegata Tanaman Hias Lucu 4-6 Cm,Kerrii,20000,1,Kab. Bandung Barat,4.94,66,Shopee,2026-06-11,https://shopee.co.id/product/72470613/4308210896,Kaktusfirdaus2513
+Tanaman Hoya Putih Remaja Sehat Dan Segar,Putih,5000,2,Kab. Jember,4.75,57,Shopee,2026-06-11,https://shopee.co.id/product/129231626/19540303770,ariswijoyokusumo
+Tanaman Hias Hoya Lissa Hijau Tanpa Pot,Lissa,16500,1,Kab. Bogor,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/583313991/21190680524,Octaplant
+Hoya Lacunosa Eskimo Tanaman Hias Segar Dengan Pot,Lacunosa,30000,1,Salatiga,5.0,9,Shopee,2026-06-11,https://shopee.co.id/product/17210247/14993497151,shoppingwithpipit
+Tanaman Hias Hoya Burtoniae Variegata DS 70 Sehat Segar,Burtoniae,25000,1,Kab. Sukabumi,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/149954398/14817005260,pendisetiawan_mekarhijau
+Tanaman Hias Hoya Verticilata Daun Hitam,Verticilata,30000,1,Kab. Cianjur,5.0,10,Shopee,2026-06-11,https://shopee.co.id/product/363308495/12461709455,arsyila_nursery
+Hoya Love Tanaman Hias Siap Kirim Segar,Love,35000,1,Kab. Bandung Barat,4.93,15,Shopee,2026-06-11,https://shopee.co.id/product/496064133/28665456120,ifraplant22
+Hoya Tomataensis | Tanaman Hias Gantung Siap Bunga,Tomataensis,29000,1,Kab. Mojokerto,4.8,35,Shopee,2026-06-11,https://shopee.co.id/product/79147367/10457736692,Organik Herbal Alami
+Hoya Macrophylla Bunga Harum,Macrophylla,10000,98,Kab. Purworejo,4.82,45,Shopee,2026-06-11,https://shopee.co.id/product/216668874/5050731435,naya allshop
+hoya carnosa krimson queen,Carnosa,30000,1,Salatiga,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/17210247/23219676431,shoppingwithpipit
+Hoya Lacunosa Hoya Mini Tanaman Hias Hoya Love,Lacunosa,2500,4,Tasikmalaya,4.71,7,Shopee,2026-06-11,https://shopee.co.id/product/339440673/25834937022,tunasmuda942
+Hoya Callistophylla 2 Daun Tanaman Hias Estetik,Callistophylla,30000,1,Kab. Bandung Barat,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/865746490/16686731112,trisula nursery
+Tanaman HOYA Decipulae Ori.,Decipulae,50000,1,Kab. Purworejo,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/1099813592/24108613930,TUFRON ORCHID
+Tanaman Hias Hoya Crasivitiolata Akar Dan Daun Sehat,Crasivitiolata,20000,3,Kab. Sukabumi,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/149954398/28273164846,pendisetiawan_mekarhijau
+Tanaman Hias Gantung HOYA Putih Hoya Lacunosa,Lacunosa,20000,2,Kab. Probolinggo,4.84,95,Shopee,2026-06-11,https://shopee.co.id/product/44177516/7309615379,huseinws
+Tanaman Hias Hoya Untuk Koleksi Anda,Untuk,6500,1,Kab. Bogor,4.33,9,Shopee,2026-06-11,https://shopee.co.id/product/540558025/10180605566,sbt angrek 12
+Tanaman hias bunga cantik Hoya Affinis sudah berakar,Affinis,28800,5,Surakarta (Solo),5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/154995315/26794543004,krokot joyo nursery
+Hoya Piestolepis Sp | Plant Hoya | Hoya Bunga Cantik | Hoya Murah,Piestolepis,37000,1,Kab. Mojokerto,4.92,12,Shopee,2026-06-11,https://shopee.co.id/product/79147367/25157355859,Organik Herbal Alami
+Tanaman Hias gantung/rambat Hoya Lakunosa Silver,Lakunosa,25000,2,Kab. Sukabumi,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/149954398/15820730221,pendisetiawan_mekarhijau
+Tanaman Hias  Hoya Lakunosa Black,Lakunosa,15000,1,Kab. Sukabumi,4.75,4,Shopee,2026-06-11,https://shopee.co.id/product/149954398/13561590983,pendisetiawan_mekarhijau
+Tanaman Hias Bunga Hoya,Tidak Teridentifikasi,5499,6,Kab. Sragen,4.82,11,Shopee,2026-06-11,https://shopee.co.id/product/381405744/49502068509,Flowerday
+Tanaman Hias HOYA Rosita,Rosita,19500,1,Kab. Bandung Barat,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/104126944/10316740193,Shofiflora
+Tanaman Hias Hoya Micropolia Varigata Ready Stok,Micropolia,25000,1,Kab. Sukabumi,4.88,8,Shopee,2026-06-11,https://shopee.co.id/product/149954398/27423164590,pendisetiawan_mekarhijau
+Hoya Diversifolia Tanaman Hias Sehat Dan Segar,Diversifolia,4900,2,Kab. Banjarnegara,4.7,43,Shopee,2026-06-11,https://shopee.co.id/product/63892636/6397705486,yugonurseryorchids
+hoya Compacta hoya unik cantik,Compacta,50000,76,Kab. Purworejo,4.86,37,Shopee,2026-06-11,https://shopee.co.id/product/216668874/4730593405,naya allshop
+Hoya Sigillatis | Hoya Sigilatis Dewasa Siap Bunga | Tanaman Hias Gantung | Hoya Plant,Sigillatis,31500,1,Kab. Mojokerto,4.72,53,Shopee,2026-06-11,https://shopee.co.id/product/79147367/14712781829,Organik Herbal Alami
+Hoya Lasiantha Dewasa Siap Bunga | Tanaman Hias Gantung | Hoya Plant,Lasiantha,65000,2,Kab. Mojokerto,4.73,33,Shopee,2026-06-11,https://shopee.co.id/product/79147367/17412817471,Organik Herbal Alami
+Tanaman Hias Hoya Cornosa Variegata - Hoya Love Variegata siap kirim tanaman asli,Cornosa,15000,4,Kab. Bogor,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/1576522876/27588276930,FloraGarden Store
+Hoya Krohniana daun kecil bunga putih wangi sekali,Krohniana,7800,3,Surakarta (Solo),0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/154995315/48208270946,krokot joyo nursery
+Hoya Carnosa Tanaman Segar Dengan Pot Minimalis,Carnosa,24000,1,Salatiga,5.0,11,Shopee,2026-06-11,https://shopee.co.id/product/17210247/17278427163,shoppingwithpipit
+Tanaman Hias Hoya Sp Sabah,Tidak Teridentifikasi,35000,2,Kab. Sukabumi,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/149954398/41260802363,pendisetiawan_mekarhijau
+Hoya Lakunosa Krohniana / Hoya Mini,Lakunosa,4500,8,Kab. Jember,4.7,483,Shopee,2026-06-11,https://shopee.co.id/product/308246258/7656229388,iczo8l829_
+Hoya Keri Variegata | Tanaman Hias - Dekorasi Taman,Keri,12500,5,Kab. Bandung Barat,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/160489252/2437845318,kukaktusin.id
+Tanaman Hias Hoya krohniana splash - real pict,Krohniana,20000,1,Medan,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/425398581/57752281684,Summer Planter
+( BISA COD ) Tanaman Hias Hoya Carnosa Tricolor Bunga Hias Hoya Carnosa Trecolour Tanaman Hidup Hoya Varigata Bunga Hoya Trecolor Tanaman Gantung Hoya Trikaler,Carnosa,18800,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1328866247/49256259204,Saung.tanamanhias
+Tanaman Hias HOYA CARY LOVE DAUN 5/6,Cary,65000,1,Kab. Sukabumi,5.0,15,Shopee,2026-06-11,https://shopee.co.id/product/149954398/9774461545,pendisetiawan_mekarhijau
+Hoya Australis Hijau  bunga putih cantik,Australis,15800,1,Surakarta (Solo),5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/154995315/27821135091,krokot joyo nursery
+Hoya Cornosa Jadin Rimbun Dengan Pot Gantung,Cornosa,58311,1,Kab. Bogor,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/602047018/17197130245,Plant_21
+tanaman hias hoya macrophylla,Macrophylla,15000,83,Jakarta Utara,4.68,44,Shopee,2026-06-11,https://shopee.co.id/product/280200333/7859151745,Tanaman rempah
+Tanaman hias anggrek hoya karnosa hoya lacunosa,Lacunosa,5900,1,Tasikmalaya,4.92,13,Shopee,2026-06-11,https://shopee.co.id/product/187005816/6149138528,minaallvhina44
+Tanaman Hias Hoya Deykeae,Deykeae,50000,5,Kab. Sukabumi,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/149954398/14120736160,pendisetiawan_mekarhijau
+Hoya Densifolia | Hoya Densifolia Siap Bunga Wangi | Tanaman Hias Gantung | Hoya Murah | Hoya Plant,Densifolia,30000,1,Kab. Mojokerto,4.68,88,Shopee,2026-06-11,https://shopee.co.id/product/79147367/10716283319,Organik Herbal Alami
+Tanaman cantik berbunga indah Hoya Macrophylla Albomarginata,Macrophylla,16800,1,Surakarta (Solo),5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/154995315/41823616103,krokot joyo nursery
+Tanaman Hias Hoya Macrophilla Bunga Merah 3-5 Daun,Macrophilla,5468,1,Jakarta Pusat,4.59,17,Shopee,2026-06-11,https://shopee.co.id/product/560938926/12527821770,aulia_herbal07
+Hoya Compacta Remaja (Hindu Rope) – Tanaman Hias Unik & Eksotis – Bunga Lilin - Tanaman Gantung Estetik Daun Keriting,Compacta,18000,15,Batu,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1588572495/52204525249,sekaranid
+Tanaman hias Hoya Cornosa Varigata - Hoya Tricolor,Cornosa,20000,5,Kab. Bogor,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/1576522876/28938337226,FloraGarden Store
+Tanaman Hias bunga 'Hoya Carnosa' Super wangi/ Tanaman Pengharum/ Sudah berakar lebat tinggal tanam,Carnosa,24900,1,Kab. Kediri,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/308576885/20290614334,backyard_garden.id
+Hoya Coronaria White | Tanaman Hias Gantung Siap Bunga | Hoya Murah,Coronaria,30000,1,Kab. Mojokerto,4.83,18,Shopee,2026-06-11,https://shopee.co.id/product/79147367/8174770758,Organik Herbal Alami
+Tanaman Hias Hoya Macropilla Albo Mudah Perawatan,Macropilla,15000,4,Kab. Bogor,4.88,16,Shopee,2026-06-11,https://shopee.co.id/product/583313991/22011466156,Octaplant
+Tanaman Hias Hoya Macropolia Varigata Merah,Macropolia,25000,1,Kab. Sukabumi,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/149954398/20260822669,pendisetiawan_mekarhijau
+Hoya Aff Forbesii | Hoya Forbesi | Tanaman Hias Gantung | Hoya Plant,Aff,30000,1,Kab. Mojokerto,4.77,13,Shopee,2026-06-11,https://shopee.co.id/product/79147367/16824919509,Organik Herbal Alami
+Hoya Vitellinoides | Hoya Rare Plant | Hoya Bunga Cantik | Hoya Siap Gantung,Vitellinoides,23000,1,Kab. Mojokerto,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/79147367/15296048321,Organik Herbal Alami
+Hoya Glabra | Tanaman Hias Gantung | Hoya Murah | Hoya Plant,Glabra,26500,1,Kab. Mojokerto,4.81,69,Shopee,2026-06-11,https://shopee.co.id/product/79147367/15729000726,Organik Herbal Alami
+PROMO Hoya Macropilla Tanaman Hias Jumbo 250gr,Macropilla,5000,5,Kab. Bekasi,4.6,10,Shopee,2026-06-11,https://shopee.co.id/product/468119909/17300634191,Herbal_Nusantara69
+tanaman hias hoya crassipetiolata,Crassipetiolata,25000,1,Kab. Cianjur,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/363308495/29302230693,arsyila_nursery
+Hoya Carnosa / Hoya Krimson Rimbunan Pot 10 Cm,Carnosa,35000,2,Kab. Magelang,4.74,58,Shopee,2026-06-11,https://shopee.co.id/product/794449883/21651202109,Cactus.succulent.Idn
+tanamn hias Hoya lacunosa hijau,Lacunosa,16500,1,Kab. Bekasi,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/656970606/16479433864,Sehat Herbal12
+Hoya kerrii parigata pinggir klaster,Kerrii,25000,0,Kab. Bandung Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1836741340/57211054406,28e0u6nqks
+Hoya wayeti pariga,Wayeti,25000,0,Kab. Bandung Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1836741340/49911074390,28e0u6nqks
+Hoya amoena. Bakh,Amoena,5000,0,Kab. Bojonegoro,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/400881599/41766059152,be-plants
+Promo Tanaman Bunga Hoya Campanulata Original,Campanulata,35000,1,Kab. Purworejo,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1099813592/19785526655,TUFRON ORCHID
+FahriOrchid - Hoya Odorata Tanaman Sehat Dengan Akar,Odorata,30000,1,Kab. Magelang,4.93,15,Shopee,2026-06-11,https://shopee.co.id/product/21605620/15957797942,fahriorchid
+Anggrek Hoya Macrohylla Daun Jumbo Segar,Macrohylla,5000,1,Kab. Bekasi,4.55,11,Shopee,2026-06-11,https://shopee.co.id/product/468119909/13667899689,Herbal_Nusantara69
+Tanaman gantung/rambat Hoya Diversifolia bunga pink cantik anggun,Diversifolia,8800,2,Surakarta (Solo),5.0,7,Shopee,2026-06-11,https://shopee.co.id/product/154995315/28227158355,krokot joyo nursery
+Tanaman HOYA,Tidak Teridentifikasi,30000,0,Kab. Jember,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/47055996/56454801862,BONBON FLORIST
+Tanaman Hias Hoya Kondisi Baik Pengemasan Aman,Kondisi,35000,1,Kab. Lumajang,4.67,27,Shopee,2026-06-11,https://shopee.co.id/product/55645618/2424090148,RussCraft
+Tanaman Hias Hoya Hellwigiana,Hellwigiana,28500,1,Kab. Sukabumi,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/149954398/20403800853,pendisetiawan_mekarhijau
+Tanaman Hias Hoya Kerrii Variegata Love Heart Plant Variegata  - Florist Kastuba,Kerrii,22500,2,Kab. Bandung Barat,4.95,20,Shopee,2026-06-11,https://shopee.co.id/product/54813830/21789254966,florist kastuba
+Hoya Rebecca Tanaman Wangi Dengan Pot,Rebecca,24000,1,Salatiga,5.0,16,Shopee,2026-06-11,https://shopee.co.id/product/17210247/22356340334,shoppingwithpipit
+Tanaman hias hoya macropylla rimbun,Macropylla,10000,1,Kab. Bandung Barat,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/1451236361/42875834821,Asyilastore46
+bunga hoya tanaman  merambat wangi semerbak  sangat bagus untuk tanaman hias dan juga vegetasi lebah madu tanaman hias pakan klanceng,Tidak Teridentifikasi,20000,3,Kab. Kediri,4.75,12,Shopee,2026-06-11,https://shopee.co.id/product/905636218/23107431896,Kebun bunga vegetasi lebah
+Tanaman Hias Hoya chauke bunga putih,Chauke,25000,1,Kab. Sukabumi,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/149954398/50855933425,pendisetiawan_mekarhijau
+Hoya Sp Sulawesi tanaman dewasa,Tidak Teridentifikasi,35300,0,Malang,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1296200972/29224650170,bicyn0r2_p
+Hoya Obovata Fress Cutting / Tanaman hias,Obovata,9500,1,Kab. Bekasi,3.67,6,Shopee,2026-06-11,https://shopee.co.id/product/350306228/19234732179,milikmah moal kaman01
+Hoya Australis | Tanaman Hias | Hoya Bunga Wangi | Hoya Plant,Australis,17100,1,Kab. Bekasi,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/350306228/21334451281,milikmah moal kaman01
+Tanaman Hias HOYA Mini,Tidak Teridentifikasi,3000,1,Kab. Bandung,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/1405962240/24994928264,hildutshop
+Hoya Waymianae rawatan,Waymianae,40000,1,Kab. Purworejo,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/216668874/18024588064,naya allshop
+Tanaman Hias Pot Gantung Hoya Macrophylla Variegata,Macrophylla,35000,54,Kab. Cianjur,4.96,26,Shopee,2026-06-11,https://shopee.co.id/product/232149932/4350376791,BIG PLANT NURSERY
+Tanaman Gantung / Hoya Waliniana Super Cantik,Waliniana,20000,0,Kab. Sekadau,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/927382303/42973065846,gudangborneo
+Hoya Veruculosa Siap Bunga | Tanaman Hias Gantung | Hoya Plant | Tanaman Hias Hoya,Veruculosa,23000,1,Kab. Mojokerto,4.65,31,Shopee,2026-06-11,https://shopee.co.id/product/79147367/3071242560,Organik Herbal Alami
+pohon hias hoya macropyllia,Macropyllia,7500,5,Kab. Bandung Barat,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/225385709/6351845178,Hasil_kebun08
+Tanaman hias Hoya Macrophylla / hoya makropila / hoya makro pila macro phylla / hoya sirih,Macrophylla,20000,1,Kab. Bogor,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/271182405/20331086726,Kebun Pa Tani
+Tanaman Hias Pot Gantung Hoya Carnosa variegta|Crimson Queen,Carnosa,30000,45,Kab. Cianjur,4.9,20,Shopee,2026-06-11,https://shopee.co.id/product/232149932/4950378250,BIG PLANT NURSERY
+Tanaman hias hoya cornosa,Cornosa,25000,9,Kab. Bogor,4.91,22,Shopee,2026-06-11,https://shopee.co.id/product/337653844/40118914326,Abdistoretanaman
+Hoya Ischnopus | Tanaman Hias Gantung Siap Bunga,Ischnopus,23500,1,Kab. Mojokerto,4.86,22,Shopee,2026-06-11,https://shopee.co.id/product/79147367/8073415010,Organik Herbal Alami
+Hoya Carrii Klaster Parigata Tengah Tanpa Pot,Carrii,25000,1,Kab. Bandung Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/250592287/26536877631,kaktus_ku
+hoya raksasa / hoya macrophylla / hoya daun besar / hoya ungu,Macrophylla,10900,3,Kab. Banjarnegara,4.7,61,Shopee,2026-06-11,https://shopee.co.id/product/63892636/9241708500,yugonurseryorchids
+TANAMAN HOYA CACAH BELUM KELUAR AKAR,Cacah,3000,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/954727129/48004943357,Titee N co.
+Tanaman Hias Hoya Sp Leoi,Tidak Teridentifikasi,35000,1,Kab. Sukabumi,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/149954398/29418534223,pendisetiawan_mekarhijau
+Tanaman Hias hoya Obovata tanaman Menjuntai rimbun,Obovata,32000,1,Kab. Cianjur,4.95,22,Shopee,2026-06-11,https://shopee.co.id/product/617960906/21005589128,syam_florist
+Tanaman Hias Hoya Latifolia Marginata,Latifolia,30000,0,Kab. Sukabumi,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/149954398/52004985573,pendisetiawan_mekarhijau
+Tanaman hias gantung/rambat Hoya Rotusa,Rotusa,30000,1,Kab. Sukabumi,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/149954398/10178296310,pendisetiawan_mekarhijau
+Hoya Verticalata Merah Sumatra Daun 4-6 Siap Tanam,Verticalata,19750,2,Jakarta Utara,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/397498343/16462462226,HalamanHerbal
+Tanaman Hias Hoya Lacunosa black pearl,Lacunosa,25000,2,Kab. Sukabumi,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/149954398/53300544864,pendisetiawan_mekarhijau
+hoya australis,Australis,35300,1,Malang,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/1296200972/29704589030,bicyn0r2_p
+Hoya Sunrise Tanaman Hias Gantung Warna Merah,Sunrise,16800,1,Surakarta (Solo),5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/154995315/40014081712,krokot joyo nursery
+Hoya Tanggamus Daun Berurat Tanaman Hias Dewasa,Tanggamus,12350,1,Kab. Bandung Barat,4.26,23,Shopee,2026-06-11,https://shopee.co.id/product/617478362/15679728886,Herbal_organik_kampung
+hoya glasilis,Glasilis,35000,1,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/583313991/16390460142,Octaplant
+Hoya Curtisii Tanaman Hias Dengan Pot,Curtisii,24000,1,Salatiga,5.0,15,Shopee,2026-06-11,https://shopee.co.id/product/17210247/19751391182,shoppingwithpipit
+Tanaman Hias Hoya Dolichorparte pink SP Selayar,Dolichorparte,85000,3,Kab. Sukabumi,4.5,2,Shopee,2026-06-11,https://shopee.co.id/product/149954398/7487233008,pendisetiawan_mekarhijau
+Tanaman Hias Hoya Archboldiana Spesies Papua | Tanaman Gantung Bunga Cantik Wangi,Archboldiana,150000,8,Kab. Gunung Kidul,4.91,156,Shopee,2026-06-11,https://shopee.co.id/product/445903710/22710230764,Tanaman Papua
+Hoya black margin,Black,20000,1,Kab. Jember,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/47055996/43278788319,BONBON FLORIST
+Tanaman Hias Gantung Hoya Krohniana Mudah Perawatan,Krohniana,2000,1,Kab. Bekasi,4.0,4,Shopee,2026-06-11,https://shopee.co.id/product/883916721/17187835078,Rumah_Barang69
+Hoya Campanulata | Hoya Siap Bunga | Tanaman Hias Gantung,Campanulata,24900,1,Kab. Mojokerto,4.62,21,Shopee,2026-06-11,https://shopee.co.id/product/79147367/13332796909,Organik Herbal Alami
+Hoya Curtisii,Curtisii,25000,1,Kab. Magelang,5.0,7,Shopee,2026-06-11,https://shopee.co.id/product/390448309/23604349072,Kaktus Sukulen Magelang
+Tanaman hias Hoya carnosa hijau,Carnosa,21000,1,Kab. Bogor,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/271182405/8914466828,Kebun Pa Tani
+Hoya Verticilata Daun Tebal Margin Sisinya,Verticilata,47000,1,Kab. Bogor,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/583313991/20165228929,Octaplant
+Tanaman Hias HoyA Cornosa Varigata - Hoya Cornosa Besar,Cornosa,30000,1,Kab. Bogor,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1576522876/40107897118,FloraGarden Store
+PROMO Hoya Callystophylla Langsung Dari Hutan,Callystophylla,10000,1,Kab. Bandung,4.75,8,Shopee,2026-06-11,https://shopee.co.id/product/149953642/25050067349,Reungit Geulis
+Tanam Hias Gantung Hoya Carnosa Reddy Stok Cantik,Carnosa,1900,5,Kab. Pangandaran,4.8,5,Shopee,2026-06-11,https://shopee.co.id/product/674044779/48700038953,Tanaman herbal jaya
+Hoya Love - Daun Love - Hoya Kerii - Hoya Love - Varigata - Hoya Splash Rare,Love,15000,2,Kab. Tuban,4.93,82,Shopee,2026-06-11,https://shopee.co.id/product/13192134/6054688899,SETIA JAYA
+Hoya Pachyclada | Tanaman Hias Gantung Siap Bunga,Pachyclada,10000,1,Kab. Bekasi,4.5,6,Shopee,2026-06-11,https://shopee.co.id/product/350306228/21234451046,milikmah moal kaman01
+Hoya Glabra | Tanaman Hias Gantung | Hoya Murah | Hoya Plant,Glabra,21289,1,Kab. Bekasi,4.5,4,Shopee,2026-06-11,https://shopee.co.id/product/350306228/21334450488,milikmah moal kaman01
+Tanaman Hias Hoya Love Kerii Variegata Unik,Love,20000,2,Kab. Bandung Barat,4.95,138,Shopee,2026-06-11,https://shopee.co.id/product/330168079/9304743765,pcactus
+Hoya Diversifolia Merah Tanaman 10cm & 30cm,Diversifolia,10800,27,Jakarta Pusat,4.88,8,Shopee,2026-06-11,https://shopee.co.id/product/302606722/13503882804,Erbal@_store
+Hoya Imperialis Red Borneo | Dewasa Siap Bunga | Tanaman Hias Gantung,Imperialis,67000,1,Kab. Mojokerto,4.74,53,Shopee,2026-06-11,https://shopee.co.id/product/79147367/14412796830,Organik Herbal Alami
+Terbaru tanaman hias gantung hoya mini siap berbunga,Tidak Teridentifikasi,4500,2,Kab. Bekasi,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/468119909/45806346956,Herbal_Nusantara69
+Hoya Sp Borneo Siap Bunga | Tanaman Hias Gantung,Tidak Teridentifikasi,23000,1,Kab. Mojokerto,4.75,20,Shopee,2026-06-11,https://shopee.co.id/product/79147367/12524847305,Organik Herbal Alami
+Tanaman Hias Hoya Waymaniae Cloudy Sky,Waymaniae,50000,2,Kab. Sukabumi,4.75,4,Shopee,2026-06-11,https://shopee.co.id/product/149954398/12840531110,pendisetiawan_mekarhijau
+Hoya Fauziana ssp Angulata | Hoya Fauzia | Tanaman Hias Gantung | Hoya Murah,Fauziana,21000,1,Kab. Mojokerto,4.66,38,Shopee,2026-06-11,https://shopee.co.id/product/79147367/15681063501,Organik Herbal Alami
+"Hoya/Tanaman Hias Hoya Lacunosa/hoya kerri/tanaman hias hoya carnosa, Lacunosa obovata/Hoya mathilde splash",Carnosa,20000,1,Kab. Bekasi,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1403065288/26622606341,Sinarcerah_
+Hoya Rintzii | Tanaman Hias Hoya | Hoya Plant | Hoya Siap Bunga,Rintzii,25000,1,Kab. Mojokerto,4.5,8,Shopee,2026-06-11,https://shopee.co.id/product/79147367/21263035048,Organik Herbal Alami
+Hoya Lacunosa - Tanaman Paludarium Terrarium Climbingplant Outdoorplant,Lacunosa,10000,1,Kab. Subang,4.91,35,Shopee,2026-06-11,https://shopee.co.id/product/289433765/29205412593,ZiaQuaticWaterEcosystem
+Tanam Hias Hoya Crasivitiolata,Crasivitiolata,25000,2,Kab. Sukabumi,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/149954398/6652984483,pendisetiawan_mekarhijau
+Tanaman Hias Hoya Rambat Putih Bunga Unik Wangi,Rambat,26910,1,Batu,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/20624848/18324110181,Almira Florist
+Tanaman Hias Hoya Pubicalyx Splash Daun 4-6,Pubicalyx,35000,1,Kab. Bogor,4.89,9,Shopee,2026-06-11,https://shopee.co.id/product/271182405/12481361570,Kebun Pa Tani
+Hoya Waymaniae | Tanaman Hias Hoya | Hoya Plant | Hoya Siap Bunga,Waymaniae,42500,1,Kab. Mojokerto,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/79147367/18463036052,Organik Herbal Alami
+Tanaman hias Hoya coin - Hoya tanaman,Coin,15000,1,Kab. Bogor,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1576522876/42307788964,FloraGarden Store
+New Promo Tanaman Hias Gantung HOYA SP Hutan Cantik COD,Tidak Teridentifikasi,9100,1,Kab. Bandung,4.67,6,Shopee,2026-06-11,https://shopee.co.id/product/492346764/22583191243,Pemburru anggrek@_store
+Hoya Imperialis berbunga besar dan cantik,Imperialis,45800,1,Surakarta (Solo),5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/154995315/42078809810,krokot joyo nursery
+Hoya Cinnamomifolia Var Purpureofusca/Bunga Merah,Cinnamomifolia,26000,1,Kab. Jember,4.64,11,Shopee,2026-06-11,https://shopee.co.id/product/25939006/8482000287,Arsenio Anggrek
+Hoya Undulata Color Red Panu,Undulata,65000,2,Kab. Kapuas Hulu,5.0,8,Shopee,2026-06-11,https://shopee.co.id/product/303753582/13365024688,yantiandiniandini
+Hoya Vitellina Siap Bunga | Tanaman Hias Gantung,Vitellina,17100,1,Kab. Bekasi,4.0,12,Shopee,2026-06-11,https://shopee.co.id/product/350306228/20934451568,milikmah moal kaman01
+Hoya AFF Caudata | Getah Bening Borneo | Dewasa Siap Bunga | Tanaman Hias Gantung,Aff,55000,1,Kab. Mojokerto,5.0,10,Shopee,2026-06-11,https://shopee.co.id/product/79147367/15312780302,Organik Herbal Alami
+Tanaman Gantung hoya publikalix splash,Publikalix,17000,5,Kab. Bogor,5.0,9,Shopee,2026-06-11,https://shopee.co.id/product/583313991/11878945689,Octaplant
+Tanaman hias hoya tricolor - Hoya carnosa tri color,Carnosa,35000,1,Kab. Bogor,5.0,13,Shopee,2026-06-11,https://shopee.co.id/product/269234395/10044774441,Kreatif Karya Tani
+Tanaman Hias Hoya Australis Spesies Papua Berkualitas,Australis,100000,1,Kab. Gunung Kidul,4.95,41,Shopee,2026-06-11,https://shopee.co.id/product/445903710/23410235447,Tanaman Papua
+Tanaman hias gantung hoya mini siap berbunga,Tidak Teridentifikasi,3000,2,Kab. Bekasi,4.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1604329510/51606327079,Aneka Hasil Alam69
+Hoya pubicalyx  bunga merah+ MOS kadaka,Pubicalyx,15000,1,Jakarta Barat,4.86,7,Shopee,2026-06-11,https://shopee.co.id/product/242233733/4284188599,ADITYA-STORY
+Tanaman Hoya Carnosa Crimson Queen Mudah Perawatan,Carnosa,52000,1,Kab. Bogor,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/583313991/23322961027,Octaplant
+Tanaman Hias Hoya Polystachysa,Polystachysa,32000,1,Kab. Cianjur,4.83,6,Shopee,2026-06-11,https://shopee.co.id/product/617960906/14841167628,syam_florist
+Hoya merah (Hoya carnosa) merambat - Tanaman Hias Hoya SP Bunga merah,Carnosa,27650,1,Batu,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/605576864/14319561849,Cakri Kembang
+Hoya Infernalis Borneo,Infernalis,65000,1,Kab. Kapuas Hulu,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/303753582/14527841576,yantiandiniandini
+PROMO ( BISA COD ) PROMO!! Tanaman Hias Hoya Tricolor Bunga Hias Hoya Carnosa Trecolour Tanaman Hidup Hoya Varigata Bunga Hoya Trecolor Tanaman Gantung Hoya Trikaler,Carnosa,25400,1,Kab. Bogor,4.82,11,Shopee,2026-06-11,https://shopee.co.id/product/602047018/12157565314,Plant_21
+Tanaman hias gantung hoya mini - tanaman gantuk unik sudah sama papan+cantelan,Tidak Teridentifikasi,6000,10,Bekasi,4.8,5,Shopee,2026-06-11,https://shopee.co.id/product/1151378335/45104712643,Anugrah Herbal1
+Hoya Javanica/Javanika Variegata Siap Bunga | Tanaman Hias Gantung,Javanica,12587,2,Kab. Bekasi,4.39,18,Shopee,2026-06-11,https://shopee.co.id/product/350306228/21234451184,milikmah moal kaman01
+Tanaman Gantung Srigading Hoya Cornosa Varigata Pohon Srigading Hoya,Cornosa,10000,2,Kab. Bogor,4.67,27,Shopee,2026-06-11,https://shopee.co.id/product/223501043/6337107860,GAES DRIVING GOLF
+Jual STEK BATANG TANAMAN hoya macrophylla,Macrophylla,5000,1,Kab. Bandung Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/617478362/26056121633,Herbal_organik_kampung
+tanaman hias Hoya multiflora,Multiflora,20000,1,Pagar Alam,3.67,3,Shopee,2026-06-11,https://shopee.co.id/product/151761631/10705616440,HMW ANGGREK DEMPO
+Tanaman Hias Hoya Globulifera Spesies Papua Segar,Globulifera,100000,1,Kab. Gunung Kidul,4.94,17,Shopee,2026-06-11,https://shopee.co.id/product/445903710/23510233733,Tanaman Papua
+Tanaman Hias Hoya Mini Tanaman Hidup,Tidak Teridentifikasi,6000,1,Jakarta Barat,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/899256207/28525608559,Sbt_alam13
+Tanaman hiasan gantung hoya kornosa katak,Kornosa,15000,2,Kab. Malang,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/129745177/24553399660,Bunga & Sangkar & Rak kayu
+Sekulen Hoya Kerii Love Var Tanaman Hias Murah,Kerii,25000,4,Kab. Bandung Barat,5.0,5,Shopee,2026-06-11,https://shopee.co.id/product/385421386/12615792989,arfanplant
+hoya lacunosa hoya rambat hoya hove tanaman hias hoya love mini rambat,Lacunosa,2500,15,Tasikmalaya,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/251155317/14150164100,Darialamstor
+Hoya Wayeti Tanaman On Pot 8 Cm,Wayeti,25000,1,Kab. Magelang,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/221568859/26082944942,oemahkaktus.co
+Promo Tanaman hias gantung hoya sp hutan cantik,Tidak Teridentifikasi,9100,0,Kab. Sleman,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/374197166/18384987300,TOP-SKOR
+Hoya Sulawesiana Tanaman Hias Eksotis Merambat,Sulawesiana,75000,1,Bandar Lampung,4.75,4,Shopee,2026-06-11,https://shopee.co.id/product/7270498/21481136034,Cihoroku_Garden
+Tanaman Hias Hoya Anulata Spesies Papua Estetik,Anulata,100000,1,Kab. Gunung Kidul,4.94,18,Shopee,2026-06-11,https://shopee.co.id/product/445903710/21273781771,Tanaman Papua
+Hoya Cumingiana Wangi Bunga Panjang Wangi,Cumingiana,15000,1,Kab. Kediri,4.68,19,Shopee,2026-06-11,https://shopee.co.id/product/132329904/5279193567,misomudin
+Terbaru Tanaman Hias Gantung Hoya Mini Rimbun,Tidak Teridentifikasi,3500,4,Kab. Bekasi,4.5,2,Shopee,2026-06-11,https://shopee.co.id/product/468119909/41918982907,Herbal_Nusantara69
+Hoya Callistophylla Daun Indah (2-3 Daun) - Tanaman Hias Merambat Indoor,Callistophylla,30000,1,Kab. Bandung Barat,5.0,12,Shopee,2026-06-11,https://shopee.co.id/product/54813830/23305726878,florist kastuba
+Tanaman Hias Hoya Mini – Tanaman Gantung / Merambat,Tidak Teridentifikasi,5000,1,Jakarta Selatan,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/1583661825/42313924950,Tokomurmer.hehe
+Tanaman Hias Hoya Latifolia GPS-8867 Sulawesi bunga merah,Latifolia,85000,4,Kab. Sukabumi,4.5,2,Shopee,2026-06-11,https://shopee.co.id/product/149954398/13240518525,pendisetiawan_mekarhijau
+Tanaman hias hoya sirih varigata / hoya macrophylla variegata,Macrophylla,25000,2,Kab. Bogor,4.89,9,Shopee,2026-06-11,https://shopee.co.id/product/271182405/8647727951,Kebun Pa Tani
+TANAMAN HIAS GANTUNG HOYA HOVE / HOYA HOP rambat,Hove,3000,6,Tasikmalaya,3.71,7,Shopee,2026-06-11,https://shopee.co.id/product/251155317/3076023887,Darialamstor
+Hoya Lacunosa - Tanaman Hias Epipit Paludarium Terrarium/Anggrek/Climbingplant,Lacunosa,10000,1,Kab. Subang,4.78,9,Shopee,2026-06-11,https://shopee.co.id/product/282327547/29327617092,JayaQuaticPlant
+Hoya Mindorensis | Tanaman Hias Gantung | Hoya Plant,Mindorensis,43000,1,Kab. Mojokerto,4.59,27,Shopee,2026-06-11,https://shopee.co.id/product/79147367/14235183149,Organik Herbal Alami
+tanaman hias rambat bunga hoya merah // tanaman hoya,Merah,39900,3,Jakarta Barat,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/371442072/18378191103,sinarcemerlang188
+Tanaman Hias Gantung / hoya koin / hoya sisik naga,Koin,5000,6,Kab. Bekasi,4.67,36,Shopee,2026-06-11,https://shopee.co.id/product/468119909/16030897062,Herbal_Nusantara69
+Hoya Kellistopylla Tanaman Koleksi Berkualitas Bagus,Kellistopylla,25000,1,Kab. Sekadau,5.0,18,Shopee,2026-06-11,https://shopee.co.id/product/585679170/18020558335,Anji unity Cosmoborneo plant
+Tanaman Hias Indoor Hoya Coin - Tanaman Hias Untuk Indoor,Coin,20000,1,Kab. Bogor,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1576522876/40257049978,FloraGarden Store
+Tanaman Hias Hoya Cornosa Variegata - Tanaman Hoya Varigata,Cornosa,12750,1,Kab. Bogor,4.5,2,Shopee,2026-06-11,https://shopee.co.id/product/237366938/57905305679,Ryan Tanaman Store
+Tanaman Hias Hoya Onychoides Spesies Papua Estetik,Onychoides,150000,3,Kab. Gunung Kidul,5.0,29,Shopee,2026-06-11,https://shopee.co.id/product/445903710/21973786157,Tanaman Papua
+Hoya Tanaman Hias Unik Cantik Perawatan Mudah,Tidak Teridentifikasi,2500,6,Kab. Madiun,4.5,6,Shopee,2026-06-11,https://shopee.co.id/product/377002418/11063900624,fatihGardenshop
+Tanaman hias hoya kerri / hoya kerri / hoya love latex daun bunga,Kerri,34000,1,Kab. Bogor,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1576522876/44257899288,FloraGarden Store
+Hoya Borneo Merah,Borneo,65000,1,Kab. Kapuas Hulu,4.25,4,Shopee,2026-06-11,https://shopee.co.id/product/303753582/20271784602,yantiandiniandini
+Hoya Love /Hoya Keri Hijau,Love,8500,0,Kab. Jember,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/241924694/43569390844,Nararya Garden
+Hoya Tanggamus | Tanaman Hias Gantung | Hoya Murah,Tanggamus,39500,1,Kab. Mojokerto,4.79,19,Shopee,2026-06-11,https://shopee.co.id/product/79147367/15681068975,Organik Herbal Alami
+Hoya Love Varigata Tengah Tanaman Rimbun,Love,30000,2,Kab. Bandung Barat,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/628560461/26954905322,TOKOBUNGA KAKTUS/SEKULEN
+Hoya Lacunosa Tanaman Hias Gantung Mini Sehat,Lacunosa,5000,1,Tasikmalaya,4.11,9,Shopee,2026-06-11,https://shopee.co.id/product/251164059/16023208512,Berkah alam stor
+Hoya Tanggamus | Tanaman Hias Gantung | Hoya Murah,Tanggamus,18762,1,Kab. Bekasi,3.33,3,Shopee,2026-06-11,https://shopee.co.id/product/350306228/21334451210,milikmah moal kaman01
+TANAMAN HIAS GANTUNG HOYA MINI,Tidak Teridentifikasi,10000,1,Jakarta Pusat,4.55,29,Shopee,2026-06-11,https://shopee.co.id/product/304098086/3577374199,Herbal Plazza
+Tanaman Hias Hoya Mini Ready Stok,Tidak Teridentifikasi,6000,5,Jakarta Barat,4.67,6,Shopee,2026-06-11,https://shopee.co.id/product/899256207/24894037338,Sbt_alam13
+Tanaman Hoya Kerrii Variegata/Hoya Love Variegata cantik unik daun rimbun,Kerrii,24800,1,Surakarta (Solo),5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/154995315/40015254340,krokot joyo nursery
+Tanaman Hias Gantung Hoya Hope 200gr Murah,Hope,10000,1,Jakarta Utara,4.51,76,Shopee,2026-06-11,https://shopee.co.id/product/207829600/5677751734,Cahaya Bibit Herbal
+Hoya Pubicalyx Splash Tanaman Hias Hoya,Pubicalyx,25200,1,Palembang,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/66213996/29936179693,SAKOPONIK
+Hoya Undulata Merah (Red) Tanaman Hias Pupuk Fungisida,Undulata,100000,1,Kab. Kapuas Hulu,5.0,9,Shopee,2026-06-11,https://shopee.co.id/product/303753582/17265112267,yantiandiniandini
+Hoya Putih (Hoya Arnottiana) Tanaman Hias Merambat,Putih,29700,1,Batu,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1704587313/57203813082,toko berbunga
+hoya imbricata  /sp sulawesi,Imbricata,50000,1,Kab. Mamasa,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/313212230/8130075725,Makarama orchid
+Tanaman Hias Hoya Compacta Daun Rimbun Sehat,Compacta,40000,1,Kab. Cianjur,5.0,12,Shopee,2026-06-11,https://shopee.co.id/product/244588304/11622012868,cbds_floret
+Hoya Compacta Tanaman Dengan Pot Asli,Compacta,48000,1,Salatiga,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/17210247/17385814914,shoppingwithpipit
+Tanaman Hias Gantung HOYA Mini,Tidak Teridentifikasi,7000,1,Jakarta Utara,4.75,129,Shopee,2026-06-11,https://shopee.co.id/product/280200333/6759167048,Tanaman rempah
+tanaman hias hoya wayetii / wayeti variegata,Wayetii,50000,33,Kab. Cianjur,4.85,13,Shopee,2026-06-11,https://shopee.co.id/product/168968918/4479703822,SAE DECORATION
+Tanaman Hias Gantung Hoya Compacta Kualitas Bagus,Compacta,25000,35,Kab. Cianjur,4.45,11,Shopee,2026-06-11,https://shopee.co.id/product/232149932/12341043958,BIG PLANT NURSERY
+Hoya Undulata Red Borneo Berbunga,Undulata,65000,2,Kab. Kapuas Hulu,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/303753582/23237824655,yantiandiniandini
+Tanaman Hias Hoya Compacta,Compacta,50000,1,Kab. Cianjur,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/617960906/18545271598,syam_florist
+Tanaman Hias Rambat Hoya 5 Daun Berbunga Merah,Tidak Teridentifikasi,6000,1,Tasikmalaya,4.67,12,Shopee,2026-06-11,https://shopee.co.id/product/339440673/9858613907,tunasmuda942
+Hoya Khroniana Silver Splash Lacunosa Tiger Spot Bunga Putih,Lacunosa,25200,2,Palembang,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/66213996/43318395972,SAKOPONIK
+Hoya Callistophylla,Callistophylla,45000,1,Kab. Kapuas Hulu,4.0,6,Shopee,2026-06-11,https://shopee.co.id/product/303753582/14183033139,yantiandiniandini
+Hoya Sp Dahlia Hijau,Tidak Teridentifikasi,65000,1,Kab. Kapuas Hulu,1.0,1,Shopee,2026-06-11,https://shopee.co.id/product/303753582/18570428122,yantiandiniandini
+hoya polyneura variegata,Polyneura,150000,1,Salatiga,5.0,6,Shopee,2026-06-11,https://shopee.co.id/product/17210247/25832689379,shoppingwithpipit
+Hoya Kellistopylla Sp Tanaman Bagus Original Kalbar,Kellistopylla,20000,1,Kab. Sekadau,4.75,20,Shopee,2026-06-11,https://shopee.co.id/product/585679170/19443192101,Anji unity Cosmoborneo plant
+Hoya Compacta Remaja Tanaman Sehat 10-25cm,Compacta,45000,2,Batu,4.91,11,Shopee,2026-06-11,https://shopee.co.id/product/243641266/4241313476,BaraPlants
+hoya curtisii,Curtisii,75000,1,Kab. Bandung Barat,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/798629114/19647557542,rimbanuralam83
+Hoya Spartioides Kapuas Hulu Tanaman Sehat Koleksi,Spartioides,100000,1,Kab. Kapuas Hulu,5.0,9,Shopee,2026-06-11,https://shopee.co.id/product/303753582/23704058776,yantiandiniandini
+Tanaman Hias Hoya Papua Hoya Piestolepis Spesies Papua,Papua,100000,1,Kab. Gunung Kidul,5.0,28,Shopee,2026-06-11,https://shopee.co.id/product/445903710/18768129220,Tanaman Papua
+Hoya Sulawesiana,Sulawesiana,70000,3,Kab. Purworejo,4.5,2,Shopee,2026-06-11,https://shopee.co.id/product/216668874/12359086223,naya allshop
+Hoya Waymaniae Red,Waymaniae,80000,1,Kab. Kapuas Hulu,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/303753582/18265166678,yantiandiniandini
+Hoya Publikalis Royal Hawaii Pupple Daun Splas Sehat,Publikalis,30000,1,Kab. Bogor,4.95,22,Shopee,2026-06-11,https://shopee.co.id/product/583313991/21264220250,Octaplant
+Stek tanaman bunga wangi rambat/gantung Hoya lacunosa,Lacunosa,7800,1,Kab. Jember,4.0,10,Shopee,2026-06-11,https://shopee.co.id/product/331873808/13153257823,gars_grow
+PROMO tanaman hias merambat anggrek hoya latifolia hijau Coba beli produk saya,Latifolia,6320,2,Jakarta Utara,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/397498343/11742278209,HalamanHerbal
+hoya lacunosa mint coin,Lacunosa,45000,1,Salatiga,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/17210247/44804393284,shoppingwithpipit
+Hoya Linearis Tanaman Hias Dengan Pot,Linearis,48000,1,Salatiga,4.8,15,Shopee,2026-06-11,https://shopee.co.id/product/17210247/23557153281,shoppingwithpipit
+Tanaman Hias Hoya love | Hoya kerii Hijau,Love,20000,1,Kab. Bandung Barat,4.9,113,Shopee,2026-06-11,https://shopee.co.id/product/185339199/7460422586,ghplants
+hoya padangensis tanaman gantung merambat  bunga hoya padangensis Outdoor plant,Padangensis,30000,1,Kab. Purworejo,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/216668874/13359709366,naya allshop
+Tanaman hias hoya carnosa variegata kuning / Carnosa varigata kuning / BEAUTY.PLANTS,Carnosa,20000,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/495570968/23269990317,Beauty.hay
+UV filter hoya 37mm/40.5mm/49mm/ 52mm/55mm/58mm/ 62mm/67mm/ 72mm/ 77mm,Tidak Teridentifikasi,61750,2,Malang,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1807548116/41580312793,Digimalang
+Tanaman hias hoya carnosa variegata putih / Carnosa varigata putih / BEAUTY.PLANTS,Carnosa,20000,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/495570968/23370109121,Beauty.hay
+Filter Uv HOYA Pro 1 DIGITAL FILTER Uk 49mm 58mm,Pro,29000,1,Tangerang,5.0,14,Shopee,2026-06-11,https://shopee.co.id/product/982450978/26211001684,BEBYBUSSCAM ACCESSORIES
+Tanaman hias Hoya carnosa hijau / BEAUTY.PLANTS,Carnosa,17000,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/495570968/18889478337,Beauty.hay
+Tanaman hias hoya sirih varigata / hoya macrophylla variegata / BEAUTY.PLANTS,Macrophylla,25000,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/495570968/18689481577,Beauty.hay
+Hoya Keri Tunggal Kak Magdalena Bonus Pot 10cm,Keri,38000,1,Kab. Bandung Barat,4.8,44,Shopee,2026-06-11,https://shopee.co.id/product/112669291/4722168180,Ksgarden_
+Tanaman hias Hoya sirih - tanaman hias langka,Sirih,30000,1,Kab. Bogor,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1576522876/26538468801,FloraGarden Store
+Tanaman Hias Hoya love kerii variegata+ pot,Love,40000,1,Kab. Cianjur,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1623469058/40467564751,Green house collection 
+Tanaman Hias Hoya Bella Sehat Untuk Indoor/Outdoor,Bella,65000,0,Kab. Cianjur,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/617960906/21245288930,syam_florist
+Hoya Tanaman Hias Merambat Tinggi 15-20 Cm,Tidak Teridentifikasi,6000,1,Kab. Sragen,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/1552254514/27587054598,SANIKA GARDEN
+Sedia Readyy TANAMAN HIAS HOYA mini,Tidak Teridentifikasi,5000,1,Jakarta Pusat,4.79,14,Shopee,2026-06-11,https://shopee.co.id/product/304098086/15312814390,Herbal Plazza
+hoya bunga putih,Bunga,10000,1,Jakarta Timur,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/196426937/20324647795,Viasitinurkamilah
+Tanaman hias hoya mini,Tidak Teridentifikasi,9990,1,Jakarta Pusat,4.67,30,Shopee,2026-06-11,https://shopee.co.id/product/400278190/4281680859,CENTER PLANTS INDONESIA
+Tanaman Gantung Hoya Dragon Compacta,Compacta,90000,5,Kab. Bandung Barat,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/385421386/29233267905,arfanplant
+Anggrek hoya murah,Murah,15000,2,Jakarta Barat,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1538268706/41200755797,ANGGREK FARM
+Hoya New Sulawesi | Tanaman Hias | Hoya Siap bunga,New,40000,1,Kab. Mojokerto,4.4,5,Shopee,2026-06-11,https://shopee.co.id/product/79147367/18963022434,Organik Herbal Alami
+Tanaman Anggrek Hoya Karnosa Siap Tanam Herbal,Karnosa,5000,2,Tasikmalaya,4.32,19,Shopee,2026-06-11,https://shopee.co.id/product/281727398/3351481977,fariznaufal625
+TANAMAN HIAS HOYA,Tidak Teridentifikasi,5000,1,Kab. Ngawi,4.0,1,Shopee,2026-06-11,https://shopee.co.id/product/916476949/18367558329,TOKO TANAMAN HIAS 45
+Tanaman Hias Hoya Eriostemma Spesies Papua,Eriostemma,150000,1,Kab. Gunung Kidul,4.96,49,Shopee,2026-06-11,https://shopee.co.id/product/445903710/23125658192,Tanaman Papua
+Hoya Wayetii,Wayetii,60000,1,Kab. Sukoharjo,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/10035190/25777803082,Rumah Bunga Mia
+tanaman hoya carnosa queen big size,Carnosa,85000,1,Kab. Bandung Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/104126944/20152983683,Shofiflora
+tanaman hias bunga jalar bunga Hoya putihbklau berbunga wangi,Putihbklau,15000,1,Kab. Kediri,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/1457834973/28574224195,BUNGA LEBAH KEDIRI
+tanaman hias hoya garcinia humilis variegata,Garcinia,50000,0,Kab. Cianjur,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/617960906/21105699545,syam_florist
+Tanaman hias hoya Variegata-plant varigata,Variegata,15000,1,Kab. Bogor,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/196807825/4343193166,Anugerah Taman
+Hoya Costa Tanaman Tiruan Dalam Pot Decorasi Dalam Luar Ruang Digantung,Costa,9978,13,Kab. Tangerang,5.0,11,Shopee,2026-06-11,https://shopee.co.id/product/104531304/25035787036,Botanikal_decor.id
+tanaman hias gantung hoya macrophylla hijau,Macrophylla,9500,2,Kab. Sleman,4.68,53,Shopee,2026-06-11,https://shopee.co.id/product/374197166/9111782134,TOP-SKOR
+Tanaman Hias - Wax Plant Hoya Macrophylla Daun Lebar Bunga Bola Ungu Glossy Fragrant Chocolate Aroma Indoor Vining Houseplant,Macrophylla,75000,0,Jakarta Timur,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/238585465/43667127938,Plantisme
+Baru Promoop Hoya Kalisthyllasi tanamn hias /tanamn merambat Ml plant,Kalisthyllasi,18000,0,Jakarta Selatan,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1544044247/40002160291,Lokal_indoplant
+tanaman hias gantung hoya compacta - hindu rope plant - tanaman cantik,Compacta,45000,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/291219108/8714839148,niming_tanamanhias
+Tanaman Hias - Hoya mini lacunosa bunga putih,Lacunosa,6000,2,Jakarta Barat,4.16,19,Shopee,2026-06-11,https://shopee.co.id/product/513652406/10836921135,DWI-STORE
+Hoya Costa Tanaman Tiruan Dalam Pot Decorasi Dalam Luar Ruang Digantung,Costa,8980,4,Kab. Tangerang,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1604483778/40618467790,King Flower Castle
+Tanaman Hias Hoya eskimo,Eskimo,55000,0,Medan,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/16324219/23043046748,porlakid
+tanaman hias patah tulang keriting hoya curly - Tanaman gantung Patah Tulang zig zag,Curly,5000,9,Depok,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1614835863/54551028824,Super Plant
+Tanaman Merambat Hoya (hoya arnottiana) Bunga Wangi Pohon Hidup Bergaransi,Arnottiana,36100,2,Batu,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/16738446/17519795461,Florista Javanica
+Hoya Terbaru Bulu Tanaman Hias Berbulu,Terbaru,20000,1,Kab. Sekadau,4.75,4,Shopee,2026-06-11,https://shopee.co.id/product/585679170/27415602555,Anji unity Cosmoborneo plant
+Tanaman hias gantung hoya mini lacunosa kualitas premium,Lacunosa,5000,0,Kab. Bekasi,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1538310690/24945186686,Aqis_Herbal
+Tanaman hias gantung rambat hoya hove / hoya hop,Hove,3000,3,Tasikmalaya,4.6,20,Shopee,2026-06-11,https://shopee.co.id/product/339440673/11919151628,tunasmuda942
+Tanaman Hias Hoya Gantung Mini Imut Ekonomis,Gantung,6180,1,Jakarta Pusat,4.79,24,Shopee,2026-06-11,https://shopee.co.id/product/351965069/9508224228,Sckindapsu_$tore
+tanaman hias Hoya mini,Tidak Teridentifikasi,1500,4,Kab. Bandung,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1405962240/29135902514,hildutshop
+Hoya Mini Rimbun Tanaman Gantung Pot Kayu Kopi,Tidak Teridentifikasi,6000,10,Kab. Bogor,4.62,16,Shopee,2026-06-11,https://shopee.co.id/product/540558025/23422988403,sbt angrek 12
+Hoya Tabulahan Tanaman Hias Sulawesi Bunga Cantik,Tabulahan,50000,2,Kab. Mamasa,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/313212230/8964838333,Makarama orchid
+Tanaman hias hoya curly-patah tulang-tanaman gantung,Curly,15000,35,Kab. Bogor,4.46,13,Shopee,2026-06-11,https://shopee.co.id/product/314777389/9972128969,Aldilaflora
+Hoya Rubida Papua Plant Ekonomis,Rubida,55000,0,Kab. Purworejo,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1099813592/28923505844,TUFRON ORCHID
+Promo Hoya Callystophylla (Sumber.Rezzeqi.id),Callystophylla,15000,0,Jakarta Pusat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1849825889/49361805251,sumber rezzeqi.id
+Hoya Compacta Tanaman Hias Indoor Murah,Compacta,45000,126,Kab. Cianjur,4.76,54,Shopee,2026-06-11,https://shopee.co.id/product/168968918/8713934513,SAE DECORATION
+Tanaman hias gantung hoya mini lacunosa murah ALM,Lacunosa,10000,0,Jakarta Selatan,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1727025520/45859342072,Story Allam Indah
+Tanaman Hoya cornosa - Tanaman Hias Tricolor Terbaik,Cornosa,33904,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1336663212/45911421855,LADANG BERKAH TAMAN
+Tanaman hias gantung hoya curly - tanaman patah tulang zig zag,Curly,5000,0,Depok,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/345547310/53210501335,Tukang Dagang_
+Hoya Mini Tanaman Bonsai Dengan Moss Hitam,Tidak Teridentifikasi,7999,31,Malang,4.92,12,Shopee,2026-06-11,https://shopee.co.id/product/25367785/8327190103,ggplant
+Hoya Borneo Green,Borneo,65000,0,Kab. Kapuas Hulu,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/303753582/21581419385,yantiandiniandini
+love Hoya varigata,Varigata,10000,0,Kab. Bandung Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/127741837/40331501757,nayiraseculen
+tanaman hoya wangi,Wangi,20000,2,Batu,4.0,1,Shopee,2026-06-11,https://shopee.co.id/product/228778348/20467128124,belibibitkwb
+Tanaman Hias Hoya Mila Michelle Silver Varigata,Mila,130000,1,Kab. Cianjur,4.5,2,Shopee,2026-06-11,https://shopee.co.id/product/617960906/20105715137,syam_florist
+Hoya carnosa variegata / Tanaman hias / Tnaman gantung / Terrarium,Carnosa,15000,0,Kab. Purbalingga,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/370597423/53511068997,Lebahwangi
+Hoya spesies/new sp,Spesies,75000,4,Kab. Mamasa,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/313212230/7789100543,Makarama orchid
+Tanaman Hias Hoya Archboldiana Red Spesies Papua,Archboldiana,150000,1,Kab. Gunung Kidul,5.0,18,Shopee,2026-06-11,https://shopee.co.id/product/445903710/18468131242,Tanaman Papua
+Promo STEK BATANG TANAMAN Hoya Macrophylla Kualitas Premium A.H,Macrophylla,5000,1,Kab. Bekasi,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1538310690/27736867918,Aqis_Herbal
+Hoya Heuschkeliana Tanaman Gantung Pot 10cm & 12cm,Heuschkeliana,100000,2,Kab. Bandung Barat,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/265879631/11449200945,cyra_kaktus19
+Hoya Carnosa “crimson queen” Variegata Tanaman Hias / Indoor,Carnosa,35000,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/193556051/55106255570,Iam Landscape
+Tanaman Hoas Hoya Gantung Hope Harga Murah,Gantung,4544,3,Jakarta Pusat,4.61,56,Shopee,2026-06-11,https://shopee.co.id/product/351965069/8708224861,Sckindapsu_$tore
+tanaman hias hoya compacta,Compacta,35000,5,Kab. Cianjur,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/71003541/20618183333,BERKAH-FLORIST
+Hoya Aff Acicularis,Aff,55000,1,Kab. Kapuas Hulu,4.67,3,Shopee,2026-06-11,https://shopee.co.id/product/303753582/20931995109,yantiandiniandini
+Tanaman hias Hoya compacta - tanaman gantung Hoya compacta,Compacta,35000,1,Kab. Bogor,3.0,2,Shopee,2026-06-11,https://shopee.co.id/product/150191318/14677183506,RAFA FLOWER TREES
+Hoya acicularis,Acicularis,100000,0,Batu,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/353508064/19190072650,ninjaplanter24
+Tanaman Hias Hoya Gigas Spesies Papua,Gigas,250000,3,Kab. Gunung Kidul,5.0,7,Shopee,2026-06-11,https://shopee.co.id/product/445903710/27343217155,Tanaman Papua
+Tanaman Hias Hoya bunga wangi cantik,Bunga,20000,0,Kab. Kediri,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1490341057/26229492383,bunga lebah vegetasi bonsai
+Hoya plant,Tidak Teridentifikasi,150000,0,Kab. Nganjuk,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/304549514/6467520857,dari boemi
+Baru New Promo STEK BATANG TANAMAN hoya macrophylla ML plant,Macrophylla,5000,1,Jakarta Selatan,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1544044247/40602124426,Lokal_indoplant
+Tomo Laboratory| Exclusive Edition | Hoya Carnosa | Eau de Perfume,Carnosa,129000,12,Jakarta Pusat,4.96,23,Shopee,2026-06-11,https://shopee.co.id/product/79880639/51801125708,Tomo Laboratory
+Hoya Costa Tanaman Tiruan Dalam Pot Decorasi Dalam Luar Ruang Digantung,Costa,8978,1,Kab. Tangerang,5.0,4,Shopee,2026-06-11,https://shopee.co.id/product/500318101/29210587096,toko_king_bunga_grosir
+tanaman hias hoya compacta gantung - tanaman hias,Compacta,80000,1,Kab. Bogor,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/1576522876/40457884182,FloraGarden Store
+Hoya Rindu Raflesia  Gantung Merambat,Rindu,80000,1,Kab. Purworejo,5.0,2,Shopee,2026-06-11,https://shopee.co.id/product/216668874/7184865297,naya allshop
+Hoya varigata,Varigata,25000,2,Kab. Bandung Barat,4.81,31,Shopee,2026-06-11,https://shopee.co.id/product/367768417/21109157898,ape_nursery01
+Tanaman hias hoya curly - patah tulang - tanaman gantung,Curly,15000,3,Depok,4.36,11,Shopee,2026-06-11,https://shopee.co.id/product/316464184/9911877673,Nazriltamanstore
+tanaman hias hoya pachyclada,Pachyclada,30000,1,Kab. Cianjur,1.0,1,Shopee,2026-06-11,https://shopee.co.id/product/232149932/21410068938,BIG PLANT NURSERY
+hoya imperialis pink,Imperialis,118000,4,Malang,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1296200972/28954585954,bicyn0r2_p
+Tanaman Hias Gantung hoya curly / Tulang Patah Keriting,Curly,6000,6,Kab. Hulu Sungai Selatan,4.75,4,Shopee,2026-06-11,https://shopee.co.id/product/127208190/7061598870,Gardenarp Olshop
+Tanaman Hias Gantung Hoya Rumbai Stok Terbatas,Rumbai,43800,1,Jakarta Barat,5.0,3,Shopee,2026-06-11,https://shopee.co.id/product/261490518/16998371021,FakirAlmuafikShop
+Tanaman Hias Indoor - Hoya Loop/cornosa treecollor Tanaman hias hidup,Loop,35000,1,Depok,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/40860258/26455263399,misyanshop
+Hoya Bella,Bella,80000,0,Kab. Purworejo,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/216668874/24401002555,naya allshop
+Tanaman Hias Hoya Pubycalix Splash,Pubycalix,35000,1,Jakarta Selatan,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/34518386/22487180076,tokoku_lancar_jaya
+Tanaman hias gantung hoya mini lacunosa,Lacunosa,6900,1,Kab. Bekasi,5.0,1,Shopee,2026-06-11,https://shopee.co.id/product/894828065/22546251866,lancar jaya 98
+Tanaman hias gantung hoya mini - tanaman gantuk unik sudah sama papan+cantelan,Tidak Teridentifikasi,7000,3,Tangerang,4.0,3,Shopee,2026-06-11,https://shopee.co.id/product/135683050/50904520608,Tanaman hias dan herbal
+tanaman hias hoya gantung mini imut,Gantung,5000,3,Bekasi,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1151378335/46504712670,Anugrah Herbal1
+Tanaman Hias Hoya Macrophylla albomarginta Tricolor,Macrophylla,61000,1,Kab. Cianjur,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/617960906/14585705695,syam_florist
+Anggrek Hoya Dewasa Siap Berbunga Perdaun,Dewasa,2000,1,Tasikmalaya,4.67,24,Shopee,2026-06-11,https://shopee.co.id/product/281727398/5242014577,fariznaufal625
+Tanaman Hias Gantung Hoya Perawatan Mudah,Perawatan,22500,1,Batu,4.73,11,Shopee,2026-06-11,https://shopee.co.id/product/288363541/6076641065,familygarden's
+Bisa COD New Promo Tanaman hias anggrek hoya carnosa segar Terlaris,Carnosa,7000,1,Jakarta Selatan,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/557068528/23259503859,HERBAL ME
+Promo TANAMN HIAS ANGGREK HOYA macrofylia hijau (Sumber.Rezzeqi.id),Macrofylia,5000,0,Jakarta Pusat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1849825889/43131502052,sumber rezzeqi.id
+Hoya love,Love,20000,1,Kab. Bandung Barat,4.85,98,Shopee,2026-06-11,https://shopee.co.id/product/158131180/2648209064,al_kaktus
+tanaman hias hoya markopelia,Markopelia,13500,0,Jakarta Selatan,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/215804024/42100225554,Berkah alam157 shop
+Hoya Costa Tanaman Tiruan Dalam Pot Decorasi Dalam Luar Ruang Digantung,Costa,8710,3,Kab. Tangerang,4.78,18,Shopee,2026-06-11,https://shopee.co.id/product/1311791974/26412976412,AuroraBungaGrosir
+Tanaman Hias Hoya Retusa,Retusa,75000,0,Kab. Cianjur,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/617960906/19345276155,syam_florist
+Daun Juntai Hoya Costa Janda Merana Warna Hijau Muda Tua Lee Kwan Yew MInimalis Home,Costa,7200,31,Jakarta Selatan,4.81,226,Shopee,2026-06-11,https://shopee.co.id/product/224052627/24414940686,Minimalis Home and Decoration
+TANAMAN HIAS HOYA COMPACTA / HINDU ROPE PLANT / TANAMAN GANTUNG CANTIK,Compacta,75000,0,Kab. Bogor,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/282380565/8211376308,Clarissa_Store05
+Baru CUTING HOYA PUTIH/tanaman hias hoya mini bunga putih Ml plant,Putih,5000,0,Jakarta Selatan,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1544044247/43302130311,Lokal_indoplant
+tanaman hias hoya gantung mini imut,Gantung,6100,1,Bekasi,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1570487084/40478027667,ARENTA_STORE
+Mossball – Hoya Minibelle Hoya Minibelle Wax Plant Tanaman Indoor Tropis Elegan,Minibelle,82000,0,Jakarta Timur,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/238585465/41767113443,Plantisme
+tanaman hias Hoya Compacta/Hindu Rope plant,Compacta,45000,0,Kab. Bandung Barat,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/193777765/10840212800,wandyputradewek
+tanaman hias gantung Patah Tulang hoya curly keriting zig zag daun hijau,Curly,6000,0,Depok,0.0,0,Shopee,2026-06-11,https://shopee.co.id/product/1614835863/57101033482,Super Plant
+Tanaman Hias Hoya Hypolasia Spesies Papua,Hypolasia,150000,1,Kab. Gunung Kidul,5.0,20,Shopee,2026-06-11,https://shopee.co.id/product/445903710/41903255083,Tanaman Papua
