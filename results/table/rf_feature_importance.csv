@@ -1,0 +1,221 @@
+Feature,Importance
+price,0.22553340796899898
+rating,0.1650238722590392
+number_of_reviews,0.13450063702031836
+location_Kab. Bekasi,0.033623083895920475
+location_Kab. Cianjur,0.021537889877211672
+location_Kab. Gunung Kidul,0.01931522245554999
+location_Kab. Bandung Barat,0.015405770746756878
+variety_Compacta,0.013838516734468771
+variety_Lacunosa,0.013607508498888967
+variety_Putih,0.011448628069079102
+location_Kab. Purworejo,0.010990166250177569
+location_Kab. Bogor,0.009511704465189001
+location_Tasikmalaya,0.009269588971820798
+variety_Curly,0.009016016199412339
+location_Batu,0.008186898231843072
+variety_Carnosa,0.00703392273758993
+location_Kab. Kapuas Hulu,0.006948758598243461
+variety_Kerii,0.0069474810558822955
+variety_Kerrii,0.0068691952990062475
+variety_Bella,0.006504260854177378
+location_Jakarta Timur,0.00645272348986581
+location_Kab. Jember,0.006183258826905741
+location_Kab. Mojokerto,0.006006750783659443
+variety_Love,0.005847042089402023
+variety_Gantung,0.0057010414115238545
+location_Kab. Kediri,0.005375096123004278
+location_Kab. Magelang,0.005351335072956152
+variety_Macrophylla,0.005222970364689965
+variety_Macrophilla,0.005219629171139192
+variety_Sulawesiana,0.005142847391518806
+variety_Campanulata,0.0050866870980738
+location_Jakarta Selatan,0.004707112729392867
+variety_Coin,0.0046616945735011035
+location_Kab. Sekadau,0.004655664474909602
+variety_Mathilde,0.0045910313601352885
+location_Surakarta (Solo),0.004181646592222125
+variety_Pachyclada,0.004126442118678351
+variety_Callistophylla,0.003791538522418202
+location_Jakarta Barat,0.0036204098930349526
+location_Depok,0.003543398117500771
+location_Kab. Sukabumi,0.003394564726519506
+variety_Imperialis,0.0032599160921426566
+location_Salatiga,0.0031973077624844353
+variety_Cumigiana,0.003073013291404458
+variety_Verticilata,0.0029944904055756367
+location_Jakarta Utara,0.002975908935088581
+location_Medan,0.0029659585293940116
+location_Kab. Lumajang,0.002942591973666729
+variety_Crasivitiolata,0.002928585587475641
+variety_Calistopylla,0.0027940345014257663
+variety_Undulata,0.0027337288907261863
+variety_Garcinia,0.002551553154618798
+variety_Wangi,0.0025507720177159548
+variety_Wayetii,0.0022480160530348728
+variety_Archboldiana,0.0022473784533773864
+variety_Costa,0.0021379208771771735
+variety_Macropylla,0.0020478126205700493
+location_Kab. Probolinggo,0.0019784127545081887
+variety_Tanggamus,0.0019735553421517667
+variety_Deykeae,0.0019111423134646525
+variety_Cluster,0.0018593919526398105
+variety_Keri,0.001845212248705933
+variety_Glabra,0.0018393562488512479
+variety_Kerri,0.0018312806400977014
+variety_Pubicalyx,0.0018279084979075848
+location_Tangerang,0.001798720126280682
+variety_Kuaci,0.0017547309302253966
+variety_Krohniana,0.0017448617449871244
+location_Kab. Mamasa,0.0017343914415217509
+variety_Diversifolia,0.0015997140187491575
+variety_New,0.0015881611529593978
+location_Kab. Tuban,0.0015737133023216322
+variety_Rindu,0.001534447627586426
+variety_Mila,0.0015238018120179346
+location_Bekasi,0.001505310273297411
+variety_Waymaniae,0.0014990406369991955
+variety_Haipong,0.001483436947070658
+variety_Perawatan,0.0014733695756753782
+variety_Carrii,0.0014725481669657888
+variety_Wayeti,0.0014669559556999264
+variety_Sigillatis,0.0014213649501078043
+variety_Decipulae,0.0014134387063017627
+location_Kab. Tangerang,0.0013906303189174058
+variety_Publikalix,0.0013666386641480628
+location_Kab. Banjarnegara,0.0013361596048567614
+location_Kab. Bandung,0.0013348953205382888
+location_Jakarta Pusat,0.0013248567539578138
+variety_Borneo,0.001306685521502133
+variety_Fichii,0.001296459749198926
+variety_Aff,0.0012480829035796928
+variety_Verticalata,0.0012468810705752841
+variety_Flamingo,0.0012323947159191598
+variety_Padangensis,0.0012216993833882262
+variety_Bilobata,0.0012160469938183385
+variety_Eskimo,0.0011921540175282013
+variety_Vitellinoides,0.0011689219600881959
+variety_Excavata,0.0011575355188743433
+variety_Sirih,0.0011564513315311632
+variety_Danumensis,0.0011280605644064716
+variety_Cumingiana,0.001118554290819057
+variety_Merah,0.0011102105354506215
+variety_Sunrise,0.0010747978728688446
+variety_Australis,0.001062991953583563
+variety_Polyneura,0.0010479110081630817
+variety_Rosita,0.0010469910743330143
+variety_Kornosa,0.0010419326793636244
+variety_Eliptica,0.0010327822870827758
+variety_Vangviengiensis,0.001027184397644222
+variety_Difersipolia,0.001000255300099859
+variety_Blazernaizhi,0.0009871191076852824
+variety_Macropyllia,0.0009740632446864302
+variety_Affinis,0.0009650022217467925
+location_Kab. Pangandaran,0.0009481683831852524
+variety_Purpureofusca,0.0009344132190052568
+variety_Odorata,0.0009253070797176566
+variety_Kellistopylla,0.000919082960672428
+variety_Publikalis,0.0009107502996967082
+variety_Anulata,0.0009057016049225996
+variety_Micropolia,0.000903274131222695
+variety_Lakunosa,0.0008613071299116261
+variety_Latifolia,0.0008496488526757732
+variety_Kuning,0.000833413630184404
+variety_Varigata,0.0008250265505631918
+variety_Burtoniae,0.0008199094467616424
+variety_Ransan,0.0007952800956120016
+variety_Fuscomarginata,0.0007895697631917745
+variety_Rotusa,0.0007848193329954538
+variety_Densifolia,0.0007678545327975762
+variety_Arnottiana,0.0007629500684224843
+variety_Variegata,0.000762127107088502
+variety_Coreacea,0.0007273824091753337
+variety_Curtisii,0.0007251465248942333
+variety_Lasiantha,0.0007235553410049189
+variety_Heuschkeliana,0.0007122429726228247
+variety_Untuk,0.0007097424772702626
+variety_Crincel,0.0007090323448720191
+variety_Kondisi,0.0007042144145222171
+variety_Lissa,0.0007001141109886525
+variety_Macropilla,0.0006835933253496994
+variety_Koin,0.000647440410754792
+variety_Ischnopus,0.0006318314554169872
+variety_Minibelle,0.0006300839135332636
+variety_Putihbklau,0.0006266707748078919
+location_Kab. Hulu Sungai Selatan,0.0006238524136727591
+variety_Terbaru,0.0005841900709581305
+variety_Publicalyx,0.0005724599512492575
+variety_Hope,0.0005704929140730739
+variety_Macrohylla,0.000568462318282023
+location_Pagar Alam,0.0005650225680721825
+variety_Merahh,0.0005502286046509216
+variety_Tomataensis,0.0005303007525592016
+variety_Crasipetiolata,0.000521346518380182
+variety_Waliniana,0.0005212790476106102
+variety_Markopelia,0.0005074517094040114
+variety_Obovata,0.0005056254367057221
+variety_Eriostemma,0.0004971299765730557
+variety_Imbricata,0.0004800619174280173
+location_Kab. Purbalingga,0.00046590765877298765
+variety_Vitellina,0.0004601438308440771
+variety_Rebecca,0.0004598543638215948
+variety_Patella,0.00045183330653826397
+location_Kab. Subang,0.00041531098599905547
+variety_Rintzii,0.0004092346039056676
+location_Kab. Bojonegoro,0.0004087874546468218
+variety_Callystophylla,0.0004031979234611076
+variety_Multiflora,0.00039116665508638106
+variety_Murah,0.0003870391277647954
+variety_Cinnamomifolia,0.00038637188111172264
+variety_Hypolasia,0.0003798288936456498
+variety_Globulifera,0.00035508609618757034
+variety_Pro,0.00035385361176261436
+variety_Gigas,0.0003467747525595292
+location_Bandung,0.0003344970696137596
+variety_Polystachysa,0.000317191517031911
+variety_Karnosa,0.00030102988367756626
+variety_Veruculosa,0.0002913760906906309
+variety_Dolar,0.00028523205691842793
+variety_Parasitica,0.0002826872667490025
+location_Kab. Sukoharjo,0.0002797003845449595
+location_Kab. Malang,0.00027717285781488337
+variety_Tabulahan,0.0002769531589725615
+variety_Cary,0.0002570082416696398
+location_Malang,0.00025196212198006016
+variety_Javanica,0.00024940811178872157
+variety_Cacah,0.0001442129744997199
+variety_Loop,0.00013897496904065952
+variety_Linearis,0.00011385736468230937
+variety_Hove,8.349191519809024e-05
+variety_Amoena,6.685326482045978e-05
+variety_Dewasa,5.341874078492777e-05
+variety_Spartioides,0.0
+variety_Rumbai,0.0
+location_Palembang,0.0
+variety_Mindorensis,0.0
+variety_Callistopila,0.0
+variety_Chauke,0.0
+variety_Var,0.0
+variety_Rubida,0.0
+variety_Spesies,0.0
+variety_Kalisthyllasi,0.0
+location_Kab. Sleman,0.0
+variety_Black,0.0
+variety_Onychoides,0.0
+variety_Glasilis,0.0
+variety_Coronaria,0.0
+variety_Macropolia,0.0
+variety_Pubycalix,0.0
+variety_Crassipetiolata,0.0
+variety_Retusa,0.0
+variety_Cuming,0.0
+variety_Infernalis,0.0
+variety_Piestolepis,0.0
+variety_Waymianae,0.0
+variety_Rambat,0.0
+variety_Macrofylia,0.0
+variety_Super,0.0
+variety_Dolichorparte,0.0
+variety_Hellwigiana,0.0
+variety_Fauziana,0.0
+variety_Papua,0.0
