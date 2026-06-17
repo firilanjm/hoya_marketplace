@@ -42,9 +42,9 @@ hoya_marketplace/
 │   └── shopee_hoya_clean.csv
 │
 ├── notebooks/
-│   ├── 00_data_cleaning.ipynb
-│   ├── 01_marketplace_analytics.ipynb
-│   └── 02_ml_comparison.ipynb
+│   ├── data_cleaning.ipynb
+│   ├── marketplace_analytics.ipynb
+│   └── ml_analytics.ipynb
 │
 ├── results/
 │   ├── figure/
