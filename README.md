@@ -1,124 +1,115 @@
-# Hoya Marketplace Analytics and Explainable Machine Learning
+# Hoya Marketplace Analysis: Economic Potential and Explainable Machine Learning
 
-This repository contains the data processing, exploratory analysis, and machine learning workflows used to assess the economic potential of Hoya ornamental plant trade in Indonesia using Shopee marketplace data.
+This repository contains data collection, cleaning, exploratory analysis, and machine learning workflows for analyzing the economic potential of Hoya ornamental plants in the Indonesian online marketplace.
 
-## Project Overview
-
-The study investigates marketplace activity related to Hoya ornamental plants by analyzing product listings collected from Shopee. The project combines descriptive marketplace analytics with explainable machine learning to identify factors associated with economically successful product listings.
-
-The analysis focuses on:
-
-* Hoya variety distribution
-* Product pricing characteristics
-* Seller geographic distribution
-* Estimated marketplace revenue
-* Correlation among marketplace indicators
-* High-revenue listing classification using Random Forest
-* Model interpretation using SHAP (SHapley Additive exPlanations)
-
-## Dataset
-
-The dataset consists of approximately 420 Hoya product listings collected from Shopee.
-
-### Variables
-
-| Variable          | Description                |
-| ----------------- | -------------------------- |
-| product_name      | Product title              |
-| variety           | Hoya variety               |
-| price             | Product price (IDR)        |
-| number_sold       | Number of units sold       |
-| location          | Seller location            |
-| rating            | Product rating             |
-| number_of_reviews | Number of customer reviews |
-| marketplace       | Marketplace source         |
-| scraping_date     | Date of data collection    |
-| product_url       | Product URL                |
-| shop_name         | Seller name                |
+The project investigates marketplace activity using Shopee product listings and explores factors associated with high-revenue products through explainable machine learning techniques.
 
 ## Research Objectives
 
-1. Analyze marketplace characteristics of Hoya ornamental plant trade.
-2. Estimate the economic potential of Hoya trade using marketplace data.
-3. Identify factors associated with high-revenue listings using explainable machine learning.
+* Identify the most traded Hoya varieties.
+* Analyze price variation across Hoya varieties.
+* Examine geographic patterns of Hoya sales activity.
+* Estimate marketplace revenue based on listing information.
+* Develop predictive models for identifying high-revenue listings.
+* Interpret machine learning predictions using SHAP explainability.
 
-## Methodology
+## Dataset
 
-### Data Preparation
+The dataset consists of Hoya product listings collected from Shopee and includes:
 
-* Data cleaning and preprocessing
-* Duplicate removal
-* Numeric conversion of price and sales variables
-* Standardization of variety names
-* Removal of unidentified varieties for machine learning analysis
+* Product name
+* Hoya variety
+* Product price
+* Number sold
+* Seller location
+* Product rating
+* Number of reviews
+* Shop name
+* Product URL
+* Scraping date
 
-### Economic Potential Assessment
+Estimated revenue is calculated as:
 
-Estimated revenue was calculated as:
+Estimated Revenue = Price × Number Sold
 
-Revenue = Price × Number Sold
+## Repository Structure
 
-This metric represents cumulative estimated revenue based on publicly available marketplace information.
+```text
+hoya_marketplace/
 
-### Descriptive Analysis
+├── data/
+│   ├── shopee_hoya_master.csv
+│   └── shopee_hoya_clean.csv
+│
+├── notebooks/
+│   ├── 00_data_cleaning.ipynb
+│   ├── 01_marketplace_analytics.ipynb
+│   └── 02_ml_comparison.ipynb
+│
+├── results/
+│   ├── figure/
+│   └── table/
+│
+├── paper/
+│
+├── README.md
+└── .gitignore
+```
 
-* Variety frequency analysis
-* Geographic distribution analysis
-* Revenue analysis
+## Analysis Workflow
+
+### 1. Data Cleaning
+
+* Filtering Hoya-related products
+* Removing irrelevant listings
+* Standardizing variety names
+* Removing duplicate records
+* Preparing analysis-ready data
+
+### 2. Marketplace Analytics
+
+* Variety popularity analysis
+* Revenue estimation
+* Location-based analysis
+* Price variation analysis
 * Correlation analysis
 
-### Machine Learning
+### 3. Machine Learning
 
-#### Random Forest Classification
+Two classification models are developed to predict high-revenue listings:
 
-A Random Forest classifier was developed to distinguish between:
+* Logistic Regression (baseline model)
+* Random Forest (machine learning model)
 
-* High-revenue listings
-* Low-revenue listings
+Model performance is evaluated using:
 
-using marketplace attributes such as:
+* Accuracy
+* Precision
+* Recall
+* F1-score
 
-* Price
-* Rating
-* Number of reviews
-* Variety
-* Seller location
+### 4. Explainable AI
 
-#### Explainability
+SHAP (SHapley Additive exPlanations) is used to identify the most influential factors associated with high-revenue Hoya listings.
 
-SHAP (SHapley Additive exPlanations) was applied to identify the most influential predictors of marketplace success.
+## Preliminary Findings
 
-## Results Summary
-
-### Random Forest Performance
-
-| Metric    | Value |
-| --------- | ----- |
-| Accuracy  | 80.3% |
-| Precision | 89.3% |
-| Recall    | 67.6% |
-| F1-score  | 76.9% |
-
-### Key Predictors
-
-The most influential factors associated with high-revenue listings were:
-
-1. Product price
-2. Product rating
-3. Number of reviews
-4. Hoya variety
-5. Seller location
+* Several Hoya varieties dominate marketplace activity.
+* Price, customer reviews, and ratings are important predictors of listing performance.
+* Random Forest outperforms Logistic Regression in classifying high-revenue listings.
+* SHAP analysis provides interpretable insights into marketplace success factors.
 
 ## Conference Submission
 
-This work is being prepared for submission to:
+This project is being prepared for submission to IC3INA 2026 under the track:
 
-**The International Conference on Computer, Control, Informatics and its Applications (IC3INA 2026)**
+**Computational Systems and Data-Driven Engineering Applications**
 
-Track:
+with emphasis on:
 
 * Machine Learning and AI Systems
-* Decision-Support Systems for Engineering Applications
+* Explainable Artificial Intelligence (XAI)
+* Data-Driven Decision Support Systems
 
 ## Author
 
@@ -126,8 +117,3 @@ Firila Najma Wahidah
 
 Department of Statistics
 The University of British Columbia
-Vancouver, Canada
-
-## License
-
-This repository is intended for academic and research purposes.
