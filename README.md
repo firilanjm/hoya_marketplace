@@ -99,18 +99,6 @@ SHAP (SHapley Additive exPlanations) is used to identify the most influential fa
 * Random Forest outperforms Logistic Regression in classifying high-revenue listings.
 * SHAP analysis provides interpretable insights into marketplace success factors.
 
-## Conference Submission
-
-This project is being prepared for submission to IC3INA 2026 under the track:
-
-**Computational Systems and Data-Driven Engineering Applications**
-
-with emphasis on:
-
-* Machine Learning and AI Systems
-* Explainable Artificial Intelligence (XAI)
-* Data-Driven Decision Support Systems
-
 ## Author
 
 Firila Najma Wahidah
